@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="6596c74102dd2cb62b72ac03"><![CDATA[Introduction]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0787"><![CDATA[]]></text>
+    </transcript>
+    <!-- <contentBackground>
+        <img path="NDIT_03.jpg" breakpoints="md,lg" position="center 90%"></img>
+        <img path="NDIT_03_mobile.jpg" breakpoints="xs,sm" position="center top"></img>
+        <altText><![CDATA[]]></altText>
+</contentBackground> -->
+    <components>
+        <section class="pt-0">
+            <row>
+                <!-- text component with objectives -->
+                <column class="col-md-8 col-md-offset-2 mt-3">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df0788"><![CDATA[Welcome to this module exploring the emerging discipline of Green Software. This module should take approximately 15-20 minutes to complete.]]></p>
+                        <p dbid="657ae1eba789759594df0789"><![CDATA[By the end of this module, you should;]]></p>
+                        <ol>
+                            <li dbid="657ae1eba789759594df078a"><![CDATA[Acquire a comprehensive understanding of the term “Net Zero”]]></li>
+                            <li dbid="657ae1eba789759594df078b"><![CDATA[Gain insights into the benefits associated with applying green software principles]]></li>
+                            <li dbid="657ae1eba789759594df078c"><![CDATA[Demonstrate an understanding of the following three key principles and explore how they can be effectively utilised to reduce carbon emissions]]></li>
+                            <ol class="lettered-style">
+                                <li dbid="65a8f727c162cabd044b6a0c"><![CDATA[Energy efficiency]]></li>
+                                <li dbid="65a8f727c162cabd044b6a0d"><![CDATA[Carbon awareness,and]]></li>
+                                <li dbid="65a8f727c162cabd044b6a0e"><![CDATA[Hardware efficiency]]></li>
+                            </ol>
+                        </ol>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

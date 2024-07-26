@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08de"><![CDATA[How to improve hardware efficiency]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08df"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGreen" style="margin-top:-10px;">
+            <!-- <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="6576db05a8291e4d482a1f66"><![CDATA[How to Improve Hardware Efficiency]]></h2>
+                    </component>
+                </column>
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="6576db05a8291e4d482a1f67"><![CDATA[If we take into account the embodied carbon, it is clear that by the time we come to buy a computer, it's already emitted a good deal of carbon. In these terms, hardware is a proxy for carbon, and since our goal is to be carbon efficient, we must also be hardware efficient.]]></p>
+                        <p dbid="6576db05a8291e4d482a1f68"><![CDATA[There are two main approaches to hardware efficiency:]]></p>
+                        <ul>
+                            <li dbid="6576db05a8291e4d482a1f69"><![CDATA[For end-user devices, it's extending the lifespan of the hardware.]]></li>
+                            <li dbid="6576db05a8291e4d482a1f6a"><![CDATA[For cloud computing, it's increasing the utilisation of the device.]]></li>
+                        </ul>
+                    </component>
+                </column>
+            </row> -->
+            <row class="">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df08e0"><![CDATA[Select each approach to find out more.]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="plusbutton-icon label-top label-transparent text-center" src="icons/icon_extending_life.png" actions="modal(0)">
+                        <text dbid="657ae1eba789759594df08e1"><![CDATA[Extending the lifespan of hardware​ ​]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="plusbutton-icon label-top label-transparent text-center" src="icons/icon_increasing_device.png" actions="modal(1)">
+                        <text dbid="657ae1eba789759594df08e2"><![CDATA[Increasing device utilisation​]]></text>
+                    </component>
+                </column>
+            </row>
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df08e3"><![CDATA[Note, shifting operations to the public cloud alone won't cut emissions; it offers space to re-architect software for potential reduction.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGreen" bkgImage="ui/white/page_split_03.png"></section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df08e4"><![CDATA[Extending the lifespan of hardware​]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df08e5"><![CDATA[In the example we mentioned previously, if we can add just one more year to the lifespan of our server, then the amortised carbon drops from 1000kg CO2eq/year to 800kg CO2eq/year.]]></p>
+                            <p dbid="657ae1eba789759594df08e6"><![CDATA[Hardware is retired when it breaks down or struggles to handle modern workloads. Of course, hardware will always break down eventually but, as developers, we can use software to build applications that run on older hardware and extend their lifetime.]]></p>
+                            <p dbid="65afc890ac935c526b72f4d9"><![CDATA[ It's also important to note that as new hardware is released, it is typically more power efficient. This means that for enterprise servers, which use a lot of energy, after a certain period of time, it could be more efficient to replace an older model with a new, smaller, less energy intense model. ]]></p>
+                            <p dbid="65afc890ac935c526b72f4da"><![CDATA[This can be a complex concept and requires comparing the overall  emissions of the current machine (carbon from the full lifecycle, manufacture, transportation, end of Life and use) to compare to that of a newer model. Manufacturers produce Product Carbon Footprint reports to help you with this comparison. ]]></p>
+                        </component>
+                        <component type="image" src="module_05/graph_09.png">
+                            <alt dbid="657ae1eba789759594df08e7"><![CDATA[Diagram showing that adding one more year, so server lasts for 5 years, then the amortised carbon drops from 1000kg CO2eq/year to 800kg CO2eq/year.  ]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df08e8"><![CDATA[Increasing device utilisation]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df08e9"><![CDATA[Efficient cloud hardware use boosts server utilisation, favouring one server at 100% over five at 20%, reducing embodied carbon costs. Like owning one car daily is better than five used interchangeably, maximizing server capacity lowers embodied carbon. Though emissions remain constant, the embodied carbon is significantly reduced.]]></p>
+                            <p dbid="657ae1eba789759594df08ea"><![CDATA[Under-utilised servers, often reserved for peak capacity, sit idle, wasting embodied carbon. The reason for keeping multiple servers lies in preparing for peak demand, ensuring performance during surges. However, this idle capacity contributes to embodied carbon waste. Hardware efficiency ensures optimal device use.]]></p>
+                            <p dbid="657ae1eba789759594df08eb"><![CDATA[Public cloud's advantage lies in scalable space, preventing idle servers as multiple organisations share capacity. This mitigates wasted embodied carbon.]]></p>
+                        </component>
+                        <component type="image" src="module_05/increasing_device.png" class="">
+                            <alt dbid="657c6cbcfaacb07a98047f65"><![CDATA[Diagram showing the advantages of public cloud over private cloud. Three private servers mainly being under utilised vs 1 public being 100% utilised with the option of deploying more servers]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+    </modals>
+</contents>

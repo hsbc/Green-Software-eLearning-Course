@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df080e"><![CDATA[Energy Efficiency Principles]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df080f"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class=" pb-0 mb-0">
+            <row>
+                <column sm="12">
+                    <!-- <component type="text">
+                        <h2 class="heading-with-bg" dbid="646f5fedacd22a1b70623d27"><![CDATA[4 Main Drivers]]></h2>
+                    </component> -->
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df0810"><![CDATA[Select the play button to start the video.]]></text>
+                    </component>
+                    <component type="media" src="energy_efficiency_principles.mp4" vtt="energy_efficiency_principles.vtt" subtitles="true" poster="energy_efficiency_principles.jpg">
+                        <title dbid="657ae1eba789759594df0811"><![CDATA[]]></title>
+                    </component>
+                    <component type="instruction" showOnComplete="true">
+                        <text dbid="6593dc7f2e074d824862e4d2"><![CDATA[Scroll down]]></text>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img " bkgImage="ui/page_split_lightgreen.png"></section>
+    </components>
+</contents>

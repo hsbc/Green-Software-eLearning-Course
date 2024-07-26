@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df07c6"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df07c7"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section style="" class="bkgColorWhite pb-0 mb-0">
+            <row>
+                <column sm="12">
+                    <component type="text" class="">
+                        <h2 class="" dbid="657ae1eba789759594df07c8"><![CDATA[Principles, Patterns, and Practices]]></h2>
+                    </component>
+                </column>
+            </row>
+            <row>
+                <column sm="12">
+                    <component type="instruction" class="">
+                        <text dbid="657ae1eba789759594df07c9"><![CDATA[Select the hotspots to find out more.]]></text>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row">
+                <column sm="12" class="mb-0 pb-0" style="display: flex;
+                align-items: center;
+                justify-items: center">
+                    <div class="hotspot-img-container mb-0 pb-0">
+                        <component type="image" src="module_02/meaning_triangle.png" mob_src="module_02/meaning_triangle_mp.png" class="img-full mb-0 pb-0 ">
+                            <hotspots>
+                                <component type="button" class="hotspot pulseShadow hotspotText" svg="plusminus" displayText="true" svgComplete="tick" actions="modal(0)" anim="none" top="25%" left="70%">
+                                    <text dbid="657ae1eba789759594df07ca"><![CDATA[Principles]]></text>
+                                </component>
+                                <component type="button" class="hotspot pulseShadow hotspotText" svg="plusminus" displayText="true" svgComplete="tick" actions="modal(1)" anim="none" top="50%" left="70%">
+                                    <text dbid="657ae1eba789759594df07cb"><![CDATA[Patterns]]></text>
+                                </component>
+                                <component type="button" class="hotspot pulseShadow hotspotText" svg="plusminus" displayText="true" svgComplete="tick" actions="modal(2)" anim="none" top="80%" left="70%">
+                                    <text dbid="657ae1eba789759594df07cc"><![CDATA[Practices]]></text>
+                                </component>
+                            </hotspots>
+                        </component>
+                    </div>
+                </column>
+            </row>
+        </section>
+        <section class="bkgColorLightGreen pb-0 mb-0" style="">
+            <row class="flex-row">
+                <column col_sm_offset="3" sm="7" style="">
+                    <component type="text">
+                        <p class="bigger-text" dbid="657ae1eba789759594df07cd"><![CDATA[Principles, Patterns and Practices are sometimes referred to as the three "Ps", and the three "Ps" are all interrelated. Practices should refer to Patterns, and Patterns that should refer to Principles.]]></p>
+                        <!-- <p class="" dbid="6576db05a8291e4d482a1e85" element_to_delete="0.2"><![CDATA[The green software foundation also publishes a catalog of vendor-neutral green software patterns across various categories.]]></p> -->
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGreen" bkgImage="ui/white/page_split_01.png"></section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df07ce"><![CDATA[Principles]]></title>
+            <components>
+                <row>
+                    <column col-sm="6">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07cf"><![CDATA[The principles of green software are a core set of competencies needed to define, build and run sustainable software applications.]]></p>
+                        </component>
+                    </column>
+                    <column col-sm="6">
+                        <component type="image" src="module_02/meaning_triangle_top.png">
+                            <alt dbid="657ae1eba789759594df07d0"><![CDATA[]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df07d1"><![CDATA[Patterns]]></title>
+            <components>
+                <row>
+                    <column col-sm="6">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07d2"><![CDATA[A specific example of how to apply one or more principles in a real-world example. Whereas principles describe the theory that underpins green software, patterns are the practical advice software engineers can use in their software applications today. ]]></p>
+                            <p dbid="6596c74102dd2cb62b72ac50"><![CDATA[This learning will not explore patterns in detail, we aim to provide an overview of the theories of green software engineering. <strong><a target="_blank" href="https://patterns.greensoftware.foundation">Click here</a></strong>, to find out more and see examples of patterns.]]></p>
+                        </component>
+                    </column>
+                    <column col-sm="6">
+                        <component type="image" src="module_02/meaning_triangle_middle.png">
+                            <alt dbid="657ae1eba789759594df07d4"><![CDATA[]]></alt>
+                        </component>
+                    </column>
+                    <column col-sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07d3"><![CDATA[Patterns are vendor-neutral, which means they are flexible and can be implemented in many processes, across different industries.]]></p>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df07d5"><![CDATA[Practices]]></title>
+            <components>
+                <row>
+                    <column col-sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07d6"><![CDATA[A pattern applied to a specific vendor's product, and informs engineers about how to use that product in a more sustainable way.]]></p>
+                        </component>
+                    </column>
+                    <column col-sm="6">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07d7"><![CDATA[Unlike patterns, practices are vendor-specific, which means this is how a team will utilise a pattern in a specific way.<br><br> For example, a pattern can be applied to a specific vendor's product, and informs engineers about how to use that product in a more sustainable way.]]></p>
+                        </component>
+                    </column>
+                    <column col-sm="6">
+                        <component type="image" src="module_02/meaning_triangle_bottom.png">
+                            <alt dbid="657ae1eba789759594df07d8"><![CDATA[]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+    </modals>
+</contents>

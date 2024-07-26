@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0813"><![CDATA[How to Improve energy efficiency]]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0814"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="mb-0 pb-0 bkgColorLightGrey">
+            <row>
+                <column col_sm_offset="2" sm="8">
+                    <component type="text" class="mb-5">
+                        <h2 dbid="657ae1eba789759594df0815"><![CDATA[How to Improve energy efficiency]]></h2>
+                        <p dbid="657ae1eba789759594df0816"><![CDATA[Now that we know how energy is produced and the emissions released, depending on whether low-carbon or high-carbon energy sources are used, let's explore some of the ways green software engineers can improve energy efficiency.]]></p>
+                        <p dbid="657ae1eba789759594df0817"><![CDATA[Understanding power usage effectiveness and energy proportionality means you can make better decisions in terms of how to use energy in the most efficient way possible and waste less.]]></p>
+                        <p dbid="65a5460742e4ea323aecb491"><![CDATA[<strong>To meet global objectives the world needs to triple renewable energy consumption and double efficiency – this means halving power consumption for technology.</strong>]]></p>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row">
+                <column sm="12" class="mb-0 pb-0" style="display: flex;
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" class="pb-0 mb-0" src="module_03/power_usage_basic.png">
+                        <alt dbid="657ae1eba789759594df0818"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

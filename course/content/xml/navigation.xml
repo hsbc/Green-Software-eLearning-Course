@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<course>
+    <introModule>0</introModule>
+    <menuModule>1</menuModule>
+    <contactModule>0</contactModule>
+    <!--
+        module: a grouping of pages assessmentBank="pa-1" id of assessment 
+            inMenu = "true/false" - is in the menu?
+            return = "true/false" - can user return if completed?
+        page: is a vertical scrollable area 
+        slide: multiple slides can exist within a page template="CUSTOM" xmlPath="slides/TITLE.xml"
+    -->
+
+    <!-- 00 start module -->
+    <module inMenu="false" class="">
+        <page multiLanguageOnly="true">
+            <slide xmlPath="slides/00_module/m00p00_LANGUAGE.xml" />
+        </page>
+        <page class="titlePage">
+            <slide xmlPath="slides/00_module/m00p01s01_TITLE.xml" />
+            <slide xmlPath="slides/00_module/m00p01s02.xml" />
+        </page>
+    </module>
+    <!-- 01 menu module -->
+    <module inMenu="false" class="">
+        <page class="menuPage">
+            <slide xmlPath="slides/01_menu/MENU.xml" complete="true"/>
+        </page>
+    </module>
+    <!-- 02 module -  -->
+    <module linear="true">
+        <page>
+            <slide xmlPath="slides/02_module/m02p00s01.xml" />
+            <slide xmlPath="slides/02_module/m02p00s02.xml" />
+            <slide xmlPath="slides/02_module/m02p00s03.xml" />
+            <slide xmlPath="slides/02_module/m02p00s04.xml" />
+            <slide xmlPath="slides/02_module/m02p00s05.xml" />
+            <slide xmlPath="slides/02_module/m02p00s06.xml" />
+            <slide xmlPath="slides/02_module/m02p00s07.xml" />
+        </page>
+    </module>
+    <!-- 03 module -  -->
+    <module linear="true">
+        <page>
+            <slide xmlPath="slides/03_module/m03p00s01.xml" />
+            <slide xmlPath="slides/03_module/m03p00s02.xml" />
+            <slide xmlPath="slides/03_module/m03p00s03.xml" />
+            <slide xmlPath="slides/03_module/m03p00s04.xml" />
+            <slide xmlPath="slides/03_module/m03p00s05.xml" />
+            <slide xmlPath="slides/03_module/m03p00s06.xml" />
+            <slide xmlPath="slides/03_module/m03p00s07.xml" />
+            <slide xmlPath="slides/03_module/m03p00s08.xml" />
+            <slide xmlPath="slides/03_module/m03p00s09.xml" />
+            <slide xmlPath="slides/03_module/m03p00s10.xml" />
+            <slide xmlPath="slides/03_module/m03p00s11_match.xml" />
+            <slide xmlPath="slides/03_module/m03p00s12.xml" />
+        </page>
+    </module>
+    <!-- 04 module -  -->
+    <module linear="true">
+        <page>
+            <slide xmlPath="slides/04_module/m04p00s01.xml" />
+            <slide xmlPath="slides/04_module/m04p00s02.xml" />
+            <slide xmlPath="slides/04_module/m04p00s03.xml" />
+            <slide xmlPath="slides/04_module/m04p00s04_story.xml" />
+            <slide xmlPath="slides/04_module/m04p00s05.xml" />
+            <slide xmlPath="slides/04_module/m04p00s06.xml" />
+            <slide xmlPath="slides/04_module/m04p00s07.xml" />
+            <slide xmlPath="slides/04_module/m04p00s08.xml" />
+            <slide xmlPath="slides/04_module/m04p00s09.xml" />
+            <slide xmlPath="slides/04_module/m04p00s10.xml" />
+            <slide xmlPath="slides/04_module/m04p00s11.xml" />
+        </page>
+    </module>
+    <!-- 05 module -  -->
+    <module linear="true">
+        <page>
+            <slide xmlPath="slides/05_module/m05p00s01.xml" />
+            <slide xmlPath="slides/05_module/m05p00s02.xml" />
+            <slide xmlPath="slides/05_module/m05p00s03.xml" />
+            <slide xmlPath="slides/05_module/m05p00s04.xml" />
+            <slide xmlPath="slides/05_module/m05p00s05.xml" />
+        </page>
+    </module>
+    <!-- 06 module - Summary -->
+    <module linear="true">
+        <page>
+            <slide xmlPath="slides/06_module/m06p00s01.xml" />
+            <slide xmlPath="slides/06_module/m06p00s02.xml" />
+            <slide xmlPath="slides/06_module/m06p00s03.xml" />
+        </page>
+    </module>
+</course>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0896"><![CDATA[Spatial and temporal shifting]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0897"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 mb-0 bkgColorLightGreen">
+            <row class="">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df0898"><![CDATA[Select each concept to find out more.]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/spatial_shifting.png" actions="modal(0)">
+                        <text dbid="657ae1eba789759594df0899"><![CDATA[Spatial shifting​ ​]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/temporal_shifting_02.png" actions="modal(1)">
+                        <text dbid="657ae1eba789759594df089a"><![CDATA[Temporal shifting​]]></text>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row gap-30 mt-4 mobileOrder">
+                <column sm="5" class="pb-0 mb-0" style="display: flex;
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" src="module_04/google-microsoft.png" class="pb-0 mb-0">
+                        <alt dbid="657ae1eba789759594df089b"><![CDATA[]]></alt>
+                    </component>
+                </column>
+                <column sm="7">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df089c"><![CDATA[Some of the biggest technology companies have recognised the importance of carbon awareness and are using advanced modelling techniques to implement demand shifting.]]></p>
+                        <p dbid="657c18c3c2520c8118f4d440"><![CDATA[<b>Google carbon aware data centres</b> - Google launched a project to make some of the cloud workloads carbon aware. They created models to predict tomorrow's carbon intensity and workload. They then shaped large-scale workloads so more would happen when and where the carbon intensity is lowest, but in such a way that they could still handle the expected load.]]></p>
+                        <p dbid="657c18efc2520c8118f4d68b"><![CDATA[<b>Microsoft carbon aware Windows</b> - Microsoft announced a project to make Windows 11 more sustainable. Initially, this means running Windows updates when the carbon intensity is lower.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df089d"><![CDATA[Spatial shifting​]]></title>
+            <components>
+                <row class="gap30">
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df089e"><![CDATA[Spatial shifting means moving your computation to another physical location where the current carbon intensity is lower. It might be a region that naturally has lower carbon sources of energy. For example, moving to different hemispheres depending on the season for more sunlight hours.]]></p>
+                        </component>
+                    </column>
+                    <column sm="12">
+                        <component type="image" src="module_04/spatial_shifting.png">
+                            <alt dbid="657ae1eba789759594df089f"><![CDATA[]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df08a0"><![CDATA[Temporal shifting]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df08a1"><![CDATA[If you can't shift your computation spatially to another region, another option you have is to shift to another time. Perhaps later in the day or night when it's sunnier or windier and, therefore, the carbon intensity is lower. This is called temporal demand shifting. We can predict future carbon intensity reasonably well through advances in weather forecasting. (<a href="https://app.electricitymaps.com/" target="_blank">Online electricity grid calculator</a>)]]></p>
+                        </component>
+                    </column>
+                    <column sm="12">
+                        <component type="image" src="module_04/temporal_shifting.png">
+                            <alt dbid="657ae1eba789759594df08a2"><![CDATA[]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+    </modals>
+</contents>

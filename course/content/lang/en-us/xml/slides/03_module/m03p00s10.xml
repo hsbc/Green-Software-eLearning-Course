@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0819"><![CDATA[Static power draw]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df081a"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGreen">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df081b"><![CDATA[Static power draw​ ​]]></h2>
+                        <p dbid="657ae1eba789759594df081c"><![CDATA[The static power draw of a computer is how much electricity is drawn when in an idle state. The static power draw varies by configuration and hardware components, but all parts have some static power draw. This is one of the reasons that PCs, laptops, and end-user devices have power-saving modes.]]></p>
+                        <p dbid="657ae1eba789759594df081d"><![CDATA[Many use cases running on servers demand total capacity as quickly as possible because the server needs to respond to rapidly changing demands, which leads to many servers in idle modes during low-demand periods. An idle server has a carbon cost due to its embodied carbon and the inefficiency.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGreen" bkgImage="module_03/static_power.png"></section>
+    </components>
+</contents>

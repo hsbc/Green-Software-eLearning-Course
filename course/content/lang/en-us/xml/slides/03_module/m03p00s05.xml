@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df07f5"><![CDATA[Question]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df07f6"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="mb-0 pb-0">
+            <row class="gap30">
+                <column class="col-md-12">
+                    <component type="mcqtawa">
+                        <question>
+                            <p class="" dbid="657ae1eba789759594df07f7"><![CDATA[If an average size laptop (15.6 inch) has a power consumption of 60 Watts, and is used for 8 hours every day, what would be the monthly (30 days) energy usage?]]></p>
+                        </question>
+                        <instruction>
+                            <component type="instruction">
+                                <text dbid="657ae1eba789759594df07f8"><![CDATA[Select one answer, then select 'Submit'.]]></text>
+                            </component>
+                        </instruction>
+                        <submit>
+                            <text dbid="657ae1eba789759594df07f9"><![CDATA[Submit]]></text>
+                        </submit>
+                        <secondary>
+                            <text dbid="657ae1eba789759594df07fa"><![CDATA[]]></text>
+                        </secondary>
+                        <options>
+                            <option correct="false">
+                                <text dbid="657ae1eba789759594df07fb"><![CDATA[ 1.14 kWh]]></text>
+                            </option>
+                            <option correct="true">
+                                <text dbid="657ae1eba789759594df07fc"><![CDATA[14.4 kWh]]></text>
+                            </option>
+                            <option correct="false">
+                                <text dbid="657ae1eba789759594df07fd"><![CDATA[144.4 kW]]></text>
+                            </option>
+                        </options>
+                    </component>
+                    <div class="feedback pb-0 mb-0">
+                        <row>
+                            <column col_xs="2" col_md="1">
+                                <component type="image" svg="tickcross"></component>
+                            </column>
+                            <column col_xs="10" col_md="11">
+                                <component type="text">
+                                    <p class="feedbackCorrect feedbackHeading" dbid="657ae1eba789759594df07fe"><![CDATA[That's right.]]></p>
+                                    <p class="feedbackIncorrect feedbackHeading" dbid="657ae1eba789759594df07ff"><![CDATA[That's incorrect.]]></p>
+                                    <p dbid="6596c74102dd2cb62b72ac86"><![CDATA[ To work out the monthly energy usage, you first need to find out the power consumption, in this case 60 Watts. You then multiply this by the number of hours used a day (8 hours), and then multiply again by the number of days used (30 days). You then divide this figure by 1,000 to get the kWh. ]]></p>
+                                    <p dbid="657ae1eba789759594df0800"><![CDATA[60 x 8 = 480]]></p>
+                                    <p dbid="657ae1eba789759594df0802"><![CDATA[480 x 30 = 14,400]]></p>
+                                    <p dbid="657ae1eba789759594df0803"><![CDATA[14,400 / 1,000 = 14.4 kWh]]></p>
+                                </component>
+                            </column>
+                        </row>
+                        <row class="flex-row">
+                            <column sm="6" style="
+                            align-items: center;
+                            justify-items: center;
+                            justify-content: start;">
+                                <component type="panel" class="bkgColorWhite colorBlack">
+                                    <component type="text">
+                                        <p>
+                                            <b dbid="6596c74102dd2cb62b72ac8a"><![CDATA[ Did you know? ]]></b>
+                                        </p>
+                                        <p dbid="6596c74102dd2cb62b72ac8b"><![CDATA[14.4 kWh per month generates 13 Lbs of CO2, and is the equivalent of driving 15 miles in a petrol car. (<a href="https://www.perchenergy.com/energy-calculators/computer-power-use-cost#calc" target="_blank">source</a>) ]]></p>
+                                    </component>
+                                </component>
+                            </column>
+                            <column sm="6" style="
+                            align-items: end;
+                            justify-items: end;
+                            justify-content: start;">
+                                <component type="image" class="mb-0" src="module_03/car_comparisons.png">
+                                    <alt dbid="6596c74102dd2cb62b72ac8c"><![CDATA[]]></alt>
+                                </component>
+                            </column>
+                        </row>
+                    </div>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

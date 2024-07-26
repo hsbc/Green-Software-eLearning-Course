@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0904"><![CDATA[Summary - Details]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0905"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="65a8f727c162cabd044b6b72"><![CDATA[ To reach our climate goals, all engineers need to play their part. Arguably PUE efficiency in data centres has plateaued so we now need to build, maintain and run greener applications. ]]></p>
+                        <p dbid="65a8f727c162cabd044b6b73"><![CDATA[ We all have a role to play: ]]></p>
+                        <ol>
+                            <li dbid="65a8f727c162cabd044b6b74"><![CDATA[ Apply a climate lens to all the decisions you make ]]></li>
+                            <li dbid="65a8f727c162cabd044b6b75"><![CDATA[ Support the adoption of sustainable cloud-based solutions ]]></li>
+                            <li dbid="65a8f727c162cabd044b6b76"><![CDATA[ Look for new and innovative approaches that will help the technology industry reduce its carbon footprint ]]></li>
+                        </ol>
+                    </component>
+                </column>
+            </row>
+            <row class="flip-border">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df0906"><![CDATA[Select each card to see what you’ve learned.]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="">
+                    <component type="flipcard">
+                        <front>
+                            <title class="" dbid="657ae1eba789759594df0907"><![CDATA[Understanding climate change]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_climate_change.png"></component>
+                                <component type="text">
+                                    <!-- <h3 ><![CDATA[Lorem ipsum dolor]]></h3> -->
+                                </component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df0908"><![CDATA[You've gained a heightened awareness of the current state of climate change, allowing you to grasp the urgency and significance of sustainable practices.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="flipcard">
+                        <front>
+                            <title class="" dbid="657ae1eba789759594df0909"><![CDATA[Net Zero]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_carbon_neutral.png"></component>
+                                <component type="text">
+                                    <!-- <h3 ><![CDATA[Lorem ipsum dolor]]></h3> -->
+                                </component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df090a"><![CDATA[Your understanding of the term "Net Zero," empowering you to engage in informed discussions on sustainability.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="flipcard">
+                        <front>
+                            <title class="" dbid="657ae1eba789759594df090b"><![CDATA[Green Software benefits]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_green_software.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df090c"><![CDATA[Through this module, you've delved into the advantages of embracing green software principles, recognising its potential to revolutionise not only the tech landscape but also our collective environmental impact.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="flipcard">
+                        <front>
+                            <title class="" dbid="657ae1eba789759594df090d"><![CDATA[Key Green Software principles]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_software_principles.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df090e"><![CDATA[You now possess a clear understanding of the three pivotal principles—energy efficiency, carbon awareness, and hardware efficiency. Armed with this knowledge, you're prepared to implement strategies that effectively reduce carbon emissions in diverse contexts. As you move forward, remember that the knowledge gained here is not just theoretical—it's a toolkit for actively contributing to a greener, more sustainable future.]]></text>
+                        </back>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

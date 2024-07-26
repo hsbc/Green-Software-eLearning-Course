@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0804"><![CDATA[Energy measurement​​]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0805"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGrey pb-0">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df0806"><![CDATA[Energy measurement​]]></h2>
+                    </component>
+                </column>
+            </row>
+            <row class="gap30 flex-row">
+                <column sm="6" style="display: flex;
+                align-items: start;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="text" class="mb-0">
+                        <p dbid="657ae1eba789759594df0807"><![CDATA[<strong>Energy</strong> is measured in joules (J). Joules measure the unit of energy.]]></p>
+                        <p element_imported="0.2" dbid="657ae1eba789759594df0808"><![CDATA[<strong>Power</strong> is measured in watts, where 1 watt (W) is a rate corresponding to one joule per second.]]></p>
+                        <p element_imported="0.2" dbid="657ae1eba789759594df0809"><![CDATA[<strong>A kilowatt (kW)</strong> is, therefore, also a rate corresponding to 1000 joules per second.]]></p>
+                        <p element_imported="0.2" dbid="657ae1eba789759594df080a"><![CDATA[<strong>A kilowatt-hour (kWh)</strong> is a measure of energy (J) corresponding to one kilowatt of power sustained for one hour.]]></p>
+                    </component>
+                </column>
+                <column sm="6" style="
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" class="mb-0" src="module_03/panel_grx_06.png">
+                        <alt dbid="657ae1eba789759594df080d"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

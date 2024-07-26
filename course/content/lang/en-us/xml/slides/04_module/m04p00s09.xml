@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08ab"><![CDATA[Demand shaping]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08ac"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 bkgColorLightGrey">
+            <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df08ad"><![CDATA[Demand shaping]]></h2>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="image" src="module_04/demand_shifting_no_bg.png">
+                        <alt dbid="657ae1eba789759594df08ae"><![CDATA[]]></alt>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df08af"><![CDATA[Demand shifting is the strategy of moving computation to regions or times when the carbon intensity is lowest. Demand shaping is a similar strategy. However, instead of moving demand to a different region or time, we shape our computation to match the existing supply.]]></p>
+                        <ul>
+                            <li dbid="657ae1eba789759594df08b0"><![CDATA[If carbon intensity is low, increase the demand; do more in your applications.]]></li>
+                            <li dbid="657ae1eba789759594df08b1"><![CDATA[If carbon intensity is high, decrease demand; do less in your applications.]]></li>
+                        </ul>
+                        <p dbid="657ae1eba789759594df08b2"><![CDATA[Demand shaping for carbon-aware applications is all about the supply of carbon. When the carbon cost of running your application becomes high, shape the demand to match the supply of carbon. This can happen automatically, or the user can make a choice.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

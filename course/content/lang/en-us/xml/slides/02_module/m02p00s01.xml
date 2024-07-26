@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0784"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0785"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <component type="parallaxheader" class="contain-image mb-0">
+            <layer src="headers/header_what_is_greensoftware_header.png"></layer>
+            <layer speed="0.5">
+                <container>
+                    <row>
+                        <column sm="12">
+                            <component type="header" class="header-text">
+                                <h1 dbid="657ae1eba789759594df0786"><![CDATA[What is Green Software?]]></h1>
+                            </component>
+                        </column>
+                    </row>
+                </container>
+            </layer>
+            <content sm_offset="4" sm="8">
+                <!-- <component type="text">
+                    <p class="larger" dbid="645ce6c897218e438cafa415"><![CDATA[Our first part of the mountain challenge looks at the area of Adverse Event reporting, and in it you will be planning the route of the climb.]]></p>
+                </component> -->
+            </content>
+        </component>
+    </components>
+</contents>

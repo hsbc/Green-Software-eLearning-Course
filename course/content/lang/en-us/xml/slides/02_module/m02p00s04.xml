@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df079d"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df079e"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGreen whiteCards pb-0">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df079f"><![CDATA[Green software engineers]]></h2>
+                        <p class="colorBlack" dbid="657ae1eba789759594df07a0"><![CDATA[This is anyone who is involved in the practice of building, deploying, or managing a software application. There are 6 key areas where green software engineers can make a difference.]]></p>
+                    </component>
+                </column>
+            </row>
+            <row>
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df07a1"><![CDATA[Select each key area to find out more.]]></text>
+                    </component>
+                </column>
+            </row>
+            <row class="gap30">
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07a2"><![CDATA[Carbon efficiency]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_carbon efficiency.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07a3"><![CDATA[Emit the least amount of carbon possible (e.g. turn video conferencing cameras off if not needed).]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07a4"><![CDATA[Energy efficiency]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_energy efficiency.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07a5"><![CDATA[Use the least amount of energy possible (e.g. for example removing old data through data archiving or data deletion thus reducing the processing load to query large volumes of data).]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07a6"><![CDATA[Carbon awareness]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_carbon awareness.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07a7"><![CDATA[Do more when the electricity is cleaner, do less when electricity is not clean, green or renewable.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07a8"><![CDATA[Hardware efficiency]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_hardware efficiency.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07a9"><![CDATA[Consider the carbon that has been emitted in producing the hardware in the first place and its subsequent disposal.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07aa"><![CDATA[Measurement]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_measurement.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07ab"><![CDATA[If you can measure it, you can improve it.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front>
+                            <title dbid="657ae1eba789759594df07ac"><![CDATA[Climate commitments]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <component type="image" src="icons/icon_climate commitments.png"></component>
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df07ad"><![CDATA[Understand the exact mechanism of carbon reduction.]]></text>
+                        </back>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row mt-5">
+                <column sm="6" style="display: flex;
+                align-items: center;
+                justify-items: center">
+                    <component type="text" class="mt-5">
+                        <p class="colorBlack" dbid="657ae1eba789759594df07ae"><![CDATA[Whilst all 6 areas are really important, only three of these activities can directly reduce the carbon emissions of software.These are: <br/>]]></p>
+                        <ul>
+                            <li dbid="657ae1eba789759594df07af"><![CDATA[Energy efficiency]]></li>
+                            <li dbid="657ae1eba789759594df07b0"><![CDATA[Carbon awareness]]></li>
+                            <li dbid="657ae1eba789759594df07b1"><![CDATA[Hardware efficiency.]]></li>
+                        </ul>
+                        <!-- <p dbid="657ae1eba789759594df07b2" element_to_delete="1.0"><![CDATA[We’ll focus on these areas in the next few sections.]]></p> -->
+                    </component>
+                </column>
+                <column sm="6" class="mt-5" style="display: flex;
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" class="mb-0" src="module_02/panel_grx_Green Software Engineers.png">
+                        <alt dbid="657ae1eba789759594df07b3"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

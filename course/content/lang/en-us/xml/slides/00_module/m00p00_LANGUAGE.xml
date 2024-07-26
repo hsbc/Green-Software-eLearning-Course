@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df077f"><![CDATA[]]></text>
+    </transcript>
+    <contentBackground>
+        <img path="" position="center top"></img>
+        <altText dbid="657ae1eba789759594df0780"><![CDATA[]]></altText>
+    </contentBackground>
+    <components>
+        <!-- <component type="headerimage" backgroundImage="00_module/LANGUAGE.jpg" backgroundPosition="50% 25%"></component> -->
+        <section>
+            <row>
+                <column col_sm="10" col_md="6">
+                    <component type="username">
+                        <text>
+                            <h3 dbid="657ae1eba789759594df0781"><![CDATA[Enter your name:]]></h3>
+                        </text>
+                    </component>
+                    <component type="text" class="colorDark">
+                        <h2 anim="fadeInRight" dbid="657ae1eba789759594df0782"><![CDATA[Select your language]]></h2>
+                    </component>
+                    <component type="languagedropdown">
+                        <continue dbid="657ae1eba789759594df0783"><![CDATA[Continue]]></continue>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

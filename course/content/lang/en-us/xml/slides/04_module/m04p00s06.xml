@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08a3"><![CDATA[How to be more carbon aware]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08a4"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 bkgColorLightGrey">
+            <row class="">
+                <column sm="12">
+                    <component type="text">
+                        <h2 dbid="657ae1eba789759594df08a5"><![CDATA[How to be more carbon aware]]></h2>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row align-items-center gap30">
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df08a7"><![CDATA[Carbon intensity is lower when more energy comes from lower-carbon sources and higher when it comes from higher-carbon sources.]]></p>
+                        <p dbid="657ae1eba789759594df08a8"><![CDATA[As we learnt earlier, if we are working in a carbon aware way, we need to do more work when the energy is coming from renewables, green or clean energy sources.]]></p>
+                    </component>
+                </column>
+                <column sm="6" style="
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" src="module_04/hydroelectric_iceland.png" class="pb-0 mb-0">
+                        <alt dbid="657ae1eba789759594df08a6"><![CDATA[]]></alt>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="text">
+                        <p dbid="6596c74102dd2cb62b72ace9"><![CDATA[Iceland generates over 99% of its electricity from renewable sources, namely hydroelectricity (approximately 80%) and geothermal (approximately 20%). Iceland has a carbon intensity of 28g (Carbon Intensity gCO₂eq/kWh)]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

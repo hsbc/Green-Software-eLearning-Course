@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0835"><![CDATA[Question]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0836"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGrey mb-0 pb-0">
+            <row>
+                <column col_sm_offset="1" sm="10">
+                    <!-- <component type="text">
+                        <h2><![CDATA[Energy measurement knowledge check]]></h2>
+                    </component> -->
+                    <component type="dropdownsequence">
+                        <question>
+                            <text dbid="657ae1eba789759594df0837"><![CDATA[Now you've learned about the Energy Efficiency Principles, see if you can match these definitions to the correct terms]]></text>
+                        </question>
+                        <selectblank dbid="657ae1eba789759594df0838"><![CDATA[Please select an option...]]></selectblank>
+                        <cancelBtnText dbid="657ae1eba789759594df0839"><![CDATA[Clear]]></cancelBtnText>
+                        <instruction>
+                            <component type="instruction">
+                                <text dbid="657ae1eba789759594df083a"><![CDATA[Use the drop-down menus to select the correct definitions.]]></text>
+                            </component>
+                        </instruction>
+                        <submit>
+                            <text dbid="657ae1eba789759594df083b"><![CDATA[Submit]]></text>
+                        </submit>
+                        <secondary>
+                            <text dbid="657ae1eba789759594df083c"><![CDATA[]]></text>
+                        </secondary>
+                        <options>
+                            <option>
+                                <label dbid="657ae1eba789759594df083d"><![CDATA[Power usage effectiveness]]></label>
+                                <match dbid="657ae1eba789759594df083e"><![CDATA[Data centre energy efficiency]]></match>
+                            </option>
+                            <option>
+                                <label dbid="657ae1eba789759594df083f"><![CDATA[Energy proportionality]]></label>
+                                <match dbid="657ae1eba789759594df0840"><![CDATA[The relationship between power used, and percentage of resource utilisation]]></match>
+                            </option>
+                            <option>
+                                <label dbid="657ae1eba789759594df0841"><![CDATA[Static power draw]]></label>
+                                <match dbid="657ae1eba789759594df0842"><![CDATA[Electricity use in an idle state]]></match>
+                            </option>
+                        </options>
+                    </component>
+                    <div class="feedback">
+                        <row>
+                            <column col_xs="2" col_md="1">
+                                <component type="image" svg="tickcross"></component>
+                            </column>
+                            <column col_xs="10" col_md="11">
+                                <component type="text">
+                                    <p class="feedbackCorrect feedbackHeading" dbid="657c7281faacb07a980482fe"><![CDATA[That's right.]]></p>
+                                    <p class="feedbackIncorrect feedbackHeading" dbid="657c7281faacb07a980482ff"><![CDATA[That's incorrect.]]></p>
+                                    <p dbid="657c7281faacb07a98048300"><![CDATA[These are the correct definitions:]]></p>
+                                    <ul>
+                                        <li dbid="657c7281faacb07a98048301"><![CDATA[Power usage effectiveness - data centre energy efficiency]]></li>
+                                        <li dbid="657c7281faacb07a98048302"><![CDATA[Energy proportionality - the relationship between power used, and percentage of resource utilisation]]></li>
+                                        <li dbid="657c7281faacb07a98048303"><![CDATA[Static power draw - electricity use in an idle state]]></li>
+                                    </ul>
+                                </component>
+                            </column>
+                        </row>
+                    </div>
+                </column>
+            </row>
+            <row class="row-flex">
+                <column sm="6"></column>
+                <column sm="6" style="display: flex;
+                    align-items: end;
+                    justify-items: end;
+                    justify-content: start;">
+                    <component type="image" src="module_03/energy_measurement.png" class="mb-0 pb-0">
+                        <alt dbid="657ae1eba789759594df0843"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

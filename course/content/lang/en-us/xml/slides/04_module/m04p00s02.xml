@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0850"><![CDATA[How electricity is produced]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0851"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="">
+            <row class="gap30 flex-row align-items-center">
+                <column sm="6">
+                    <component type="text">
+                        <p dbid="657c18c3c2520c8118f4d3f6"><![CDATA[Not all electricity is produced in the same way. In different locations and times, electricity is generated using a variety of sources with varying carbon emissions.]]></p>
+                        <p dbid="657c18c3c2520c8118f4d3f7"><![CDATA[Some sources, such as wind, solar, or hydroelectric, are cleaner, renewable sources that emit little carbon.]]></p>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="image" src="module_04/carbon_intro_01.png">
+                        <alt dbid="657c18c3c2520c8118f4d3f8"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+            <row class="gap30 flex-row align-items-center mobileOrder">
+                <column sm="6">
+                    <component type="image" src="module_04/carbon_intro_02.png">
+                        <alt dbid="657c18c3c2520c8118f4d3f9"><![CDATA[]]></alt>
+                    </component>
+                </column>
+                <column sm="6">
+                    <component type="text">
+                        <p dbid="657c18c3c2520c8118f4d3fa"><![CDATA[Fossil fuel sources emit carbon at varying degrees to produce electricity. For example, both gas and coal emit more carbon than renewable sources, but gas-burning power plants emit less carbon than coal-burning power plants.]]></p>
+                    </component>
+                </column>
+            </row>
+            <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="657c18c3c2520c8118f4d3fb"><![CDATA[Engineering with carbon awareness is the idea of doing more when more energy comes from low carbon sources and doing less when more energy comes from high carbon sources. So when making hosting decisions, look at the PUE of data centres for both on-premise and cloud.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img" bkgImage="module_04/carbon_principle_divider_01.png"></section>
+    </components>
+</contents>

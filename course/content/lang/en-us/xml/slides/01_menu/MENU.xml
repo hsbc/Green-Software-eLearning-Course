@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents class="fullheight">
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df078d"><![CDATA[]]></text>
+    </transcript>
+    <contentBackground>
+        <img path="footers/menu_BG.png" position="center 100%" size="100% auto"></img>
+        <altText dbid="657ae1eba789759594df078e"><![CDATA[]]></altText>
+    </contentBackground>
+    <components>
+        <section>
+            <row>
+                <column col_sm="12">
+                    <component type="button" class="backBtn noBottomMargin">
+                        
+                        <text dbid="657ae1eba789759594df078f"><![CDATA[Back]]></text>
+                    </component>
+                </column>
+                <column col_sm="12">
+                    <component style="" type="text">
+                        <h1>
+                            <span class="" dbid="657ae1eba789759594df0790"><![CDATA[Main menu]]></span>
+                        </h1>
+                    </component>
+                    <component type="instruction" marginBottom="10px">
+                        <text dbid="657ae1eba789759594df0791"><![CDATA[Select a section to learn more.]]></text>
+                    </component>
+                </column>
+            </row>
+            <component type="GSFMenu"></component>
+            <!-- <row>
+                <column col_sm="6" col_md="4">
+                    <div style="background-image: url('course/content/UI/images/people.png')" class="menu-card">
+                        <div class="menu-card-body">
+
+                            <h4 class="menu-card-text"><![CDATA[What defines a customer in vulnerable circumstances?]]></h4>
+</div>
+</div>
+</column>
+<column col_sm="6" col_md="4">
+<div style="background-image: url('course/content/UI/images/people.png')" class="menu-card">
+<div class="menu-card-body">
+<h4 class="menu-card-text"><![CDATA[What are the drivers of vulnerability?]]></h4>
+</div>
+</div>
+</column>
+<column col_sm="6" col_md="4">
+<div style="background-image: url('course/content/UI/images/people.png')" class="menu-card">
+<div class="menu-card-body">
+<h4 class="menu-card-text"><![CDATA[How do I help customers in vulnerable circumstances?]]></h4>
+</div>
+</div>
+</column>
+<column col_sm="6" col_md="4">
+<div style="background-image: url('course/content/UI/images/people.png')" class="menu-card">
+<div class="menu-card-body">
+<h4 class="menu-card-text"><![CDATA[Summary]]></h4>
+</div>
+</div>
+</column>
+</row> -->
+        </section>
+    </components>
+    <instructionText>
+        <text dbid="657ae1eba789759594df0792"><![CDATA[]]></text>
+    </instructionText>
+</contents>

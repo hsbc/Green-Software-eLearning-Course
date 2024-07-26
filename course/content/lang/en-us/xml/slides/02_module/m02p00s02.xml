@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0799"><![CDATA[What is Green Software?]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df079a"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="">
+            <row>
+                <column sm="12">
+                    <!-- <component type="text">
+                        <h2 class="heading-with-bg" dbid="646f5fedacd22a1b70623d27"><![CDATA[4 Main Drivers]]></h2>
+                    </component> -->
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df079b"><![CDATA[Select the play button to start the video.]]></text>
+                    </component>
+                    <component type="media" src="what_is_green_software.mp4" vtt="what_is_green_software.vtt" subtitles="true" poster="what_is_green_software.jpg">
+                        <title dbid="657ae1eba789759594df079c"><![CDATA[]]></title>
+                    </component>
+                    <component type="instruction" showOnComplete="true">
+                        <text dbid="6593dc7f2e074d824862e48e"><![CDATA[Scroll down]]></text>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+    <name dbid="6576db05a8291e4d482a1dde"><![CDATA[Net Zero: Green Software]]></name>
+    <title dbid="6576db05a8291e4d482a1ddf"><![CDATA[Net Zero: Green Software]]></title>
+    <!-- COURSE TITLE -->
+    <id dbid="657ae1eba789759594df06e2"><![CDATA[netzero_gsf_2024]]></id>
+    <!-- COURSE ID -->
+    <!-- Structure should match the navigation.xml -->
+    <!-- 0 - intro module -->
+    <module>
+        <title dbid="657ae1eba789759594df06e3"><![CDATA[GSF - Net Zero]]></title>
+        <page>
+            <title dbid="657ae1eba789759594df06e4"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 01 menu module -->
+    <module>
+        <title dbid="657ae1eba789759594df06e5"><![CDATA[Menu]]></title>
+        <page>
+            <title dbid="657ae1eba789759594df06e6"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 02 module -->
+    <module img="headers/header_what_is_greensoftware_header.png" imgGrey="headers/header_grey_what_is_greensoftware.png">
+        <title dbid="657ae1eba789759594df06e7"><![CDATA[What is Green Software?]]></title>
+        <info dbid="657ae1eba789759594df06e8"><![CDATA[]]></info>
+        <time dbid="657ae1eba789759594df06e9"><![CDATA[]]></time>
+        <page>
+            <title dbid="657ae1eba789759594df06ea"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 03 module -->
+    <module img="headers/header_energy_efficency.png" imgGrey="headers/header_grey_energy_efficency.png">
+        <title dbid="657ae1eba789759594df06eb"><![CDATA[Energy Efficiency Principle]]></title>
+        <info dbid="657ae1eba789759594df06ec"><![CDATA[]]></info>
+        <time dbid="657ae1eba789759594df06ed"><![CDATA[]]></time>
+        <page>
+            <title dbid="657ae1eba789759594df06ee"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 04 module -->
+    <module img="headers/header_carbon_awareness.png" imgGrey="headers/header_grey_carbon_awareness.png">
+        <title dbid="657ae1eba789759594df06ef"><![CDATA[Carbon Awareness Principle]]></title>
+        <info dbid="657ae1eba789759594df06f0"><![CDATA[]]></info>
+        <time dbid="657ae1eba789759594df06f1"><![CDATA[]]></time>
+        <page>
+            <title dbid="657ae1eba789759594df06f2"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 05 module -->
+    <module img="headers/header_hardware_efficency.png" imgGrey="headers/header_grey_hardware_efficency.png">
+        <title dbid="657ae1eba789759594df06f3"><![CDATA[Hardware Efficiency Principle]]></title>
+        <info dbid="657ae1eba789759594df06f4"><![CDATA[]]></info>
+        <time dbid="657ae1eba789759594df06f5"><![CDATA[]]></time>
+        <page>
+            <title dbid="657ae1eba789759594df06f6"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- 06 module -->
+    <module img="headers/summary_complete.png" imgGrey="headers/header_grey_summary.png">
+        <title dbid="657ae1eba789759594df06f7"><![CDATA[Summary]]></title>
+        <info dbid="657ae1eba789759594df06f8"><![CDATA[]]></info>
+        <time dbid="657ae1eba789759594df06f9"><![CDATA[]]></time>
+        <page>
+            <title dbid="657ae1eba789759594df06fa"><![CDATA[]]></title>
+        </page>
+    </module>
+    <!-- SETTINGS -->
+    <settings>
+        <client url="">
+            <name dbid="657ae1eba789759594df06fb"><![CDATA[HSBC]]></name>
+            <logo>
+                <large src="">
+                    <alt dbid="657ae1eba789759594df06fc"><![CDATA[]]></alt>
+                </large>
+                <small src="">
+                    <alt dbid="657ae1eba789759594df06fd"><![CDATA[]]></alt>
+                </small>
+            </logo>
+        </client>
+        <roles>
+            <name dbid="657ae1eba789759594df06fe"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df06ff"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df0700"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df0701"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df0702"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df0703"><![CDATA[]]></name>
+            <name dbid="657ae1eba789759594df0704"><![CDATA[]]></name>
+        </roles>
+        <navigation>
+            <!-- <footer>
+                <title><![CDATA[]]></title> -->
+            <!-- <copyright ><![CDATA[©{YEAR}. All rights reserved.]]></copyright> -->
+            <!-- <copyright><![CDATA[Copyright © 2013, 2017 by XXX. <a href="#" class="footer-modal">More information</a>.]]></copyright> -->
+            <!-- <modal>
+                    <title><![CDATA[]]></title>
+<content>
+<p><![CDATA[]]></p>
+</content>
+</modal> -->
+            <!-- </footer> -->
+            <btn_Home dbid="657ae1eba789759594df0705"><![CDATA[Home]]></btn_Home>
+            <btn_Menu dbid="657ae1eba789759594df0706"><![CDATA[Main menu]]></btn_Menu>
+            <btn_Next dbid="657ae1eba789759594df0707"><![CDATA[Next section]]></btn_Next>
+            <btn_Back dbid="657ae1eba789759594df0708"><![CDATA[Previous]]></btn_Back>
+            <btn_Replay dbid="657ae1eba789759594df0709"><![CDATA[Replay]]></btn_Replay>
+            <btn_Help dbid="657ae1eba789759594df070a"><![CDATA[Help]]></btn_Help>
+            <btn_Resource dbid="657ae1eba789759594df070b"><![CDATA[Resources]]></btn_Resource>
+            <btn_Glossary dbid="657ae1eba789759594df070c"><![CDATA[Glossary]]></btn_Glossary>
+            <btn_Exit dbid="657ae1eba789759594df070d"><![CDATA[Close course]]></btn_Exit>
+            <btn_Search dbid="657ae1eba789759594df070e"><![CDATA[Search]]></btn_Search>
+            <btn_SearchGo dbid="657ae1eba789759594df070f"><![CDATA[Go]]></btn_SearchGo>
+            <btn_Language dbid="657ae1eba789759594df0710"><![CDATA[Language]]></btn_Language>
+            <btn_AudioOn dbid="657ae1eba789759594df0711"><![CDATA[Audio on]]></btn_AudioOn>
+            <btn_AudioOff dbid="657ae1eba789759594df0712"><![CDATA[Audio off]]></btn_AudioOff>
+            <btn_More dbid="657ae1eba789759594df0713"><![CDATA[More…]]></btn_More>
+            <btn_Close dbid="657ae1eba789759594df0714"><![CDATA[Close]]></btn_Close>
+            <btn_Add dbid="657ae1eba789759594df0715"><![CDATA[Add]]></btn_Add>
+            <btn_Ok dbid="657ae1eba789759594df0716"><![CDATA[OK]]></btn_Ok>
+            <btn_Continue dbid="657ae1eba789759594df0717"><![CDATA[Continue]]></btn_Continue>
+            <btn_Contact dbid="657ae1eba789759594df0718"><![CDATA[Talk to us]]></btn_Contact>
+            <btn_Transcript dbid="657ae1eba789759594df0719"><![CDATA[Transcript]]></btn_Transcript>
+            <btn_ShowTranscript dbid="657ae1eba789759594df071a"><![CDATA[Show transcript]]></btn_ShowTranscript>
+            <btn_HideTranscript dbid="657ae1eba789759594df071b"><![CDATA[Hide transcript]]></btn_HideTranscript>
+            <btn_CarouselNext dbid="657ae1eba789759594df071c"><![CDATA[Next]]></btn_CarouselNext>
+            <btn_CarouselPrev dbid="657ae1eba789759594df071d"><![CDATA[Previous]]></btn_CarouselPrev>
+            <progress dbid="657ae1eba789759594df071e"><![CDATA[progress]]></progress>
+        </navigation>
+        <accessibility>
+            <skipTo dbid="657ae1eba789759594df071f"><![CDATA[Skip to {title}]]></skipTo>
+            <skipToMainContent dbid="657ae1eba789759594df0720"><![CDATA[Skip to main content]]></skipToMainContent>
+            <toggleNavigation dbid="657ae1eba789759594df0721"><![CDATA[Toggle navigation]]></toggleNavigation>
+            <mainContent dbid="657ae1eba789759594df0722"><![CDATA[Main content]]></mainContent>
+            <mainTitleContent dbid="657ae1eba789759594df0723"><![CDATA[{title}]]></mainTitleContent>
+            <search dbid="657ae1eba789759594df0724"><![CDATA[Search]]></search>
+            <scrollToContentView dbid="657ae1eba789759594df0725"><![CDATA[Scroll to content view]]></scrollToContentView>
+            <articleContent dbid="657ae1eba789759594df0726"><![CDATA[Article content]]></articleContent>
+            <articleTitleContent dbid="657ae1eba789759594df0727"><![CDATA[{title}]]></articleTitleContent>
+            <done dbid="657ae1eba789759594df0728"><![CDATA[done]]></done>
+            <complete dbid="657ae1eba789759594df0729"><![CDATA[complete]]></complete>
+            <carousel dbid="657ae1eba789759594df072a"><![CDATA[carousel]]></carousel>
+            <carouselNext dbid="657ae1eba789759594df072b"><![CDATA[Next slide]]></carouselNext>
+            <carouselPrev dbid="657ae1eba789759594df072c"><![CDATA[Previous slide]]></carouselPrev>
+            <carouselGoToSlide dbid="657ae1eba789759594df072d"><![CDATA[Go to slide {num}]]></carouselGoToSlide>
+            <correct dbid="657ae1eba789759594df072e"><![CDATA[(Correct)]]></correct>
+            <correctMissed dbid="657ae1eba789759594df072f"><![CDATA[(Correct but not selected)]]></correctMissed>
+            <incorrect dbid="657ae1eba789759594df0730"><![CDATA[(Incorrect)]]></incorrect>
+        </accessibility>
+        <search>
+            <min dbid="657ae1eba789759594df0731"><![CDATA[Minimum search is 3 characters]]></min>
+            <noresults dbid="657ae1eba789759594df0732"><![CDATA[No results]]></noresults>
+            <module dbid="657ae1eba789759594df0733"><![CDATA[Module]]></module>
+            <page dbid="657ae1eba789759594df0734"><![CDATA[Page]]></page>
+            <slide dbid="657ae1eba789759594df0735"><![CDATA[section]]></slide>
+        </search>
+        <messages>
+            <launch dbid="657ae1eba789759594df0736"><![CDATA[Please do not close this Window.]]></launch>
+            <bookmark>
+                <title dbid="657ae1eba789759594df0737"><![CDATA[Bookmark found]]></title>
+                <message dbid="657ae1eba789759594df0738"><![CDATA[Would you like to continue from the last visited page?]]></message>
+                <confirm dbid="657ae1eba789759594df0739"><![CDATA[Yes]]></confirm>
+                <cancel dbid="657ae1eba789759594df073a"><![CDATA[No]]></cancel>
+            </bookmark>
+            <exit>
+                <title dbid="657ae1eba789759594df073b"><![CDATA[Exit]]></title>
+                <message dbid="657ae1eba789759594df073c"><![CDATA[Are you sure you want to exit the course?]]></message>
+                <confirm dbid="657ae1eba789759594df073d"><![CDATA[Yes]]></confirm>
+                <cancel dbid="657ae1eba789759594df073e"><![CDATA[No]]></cancel>
+            </exit>
+            <contentLocked>
+                <h2 class="h4" dbid="657ae1eba789759594df073f"><![CDATA[You have not yet completed this page]]></h2>
+                <p dbid="657ae1eba789759594df0740"><![CDATA[Please complete all content and interactive sections on this page in order to continue.]]></p>
+            </contentLocked>
+        </messages>
+        <errors>
+            <file>
+                <title dbid="657ae1eba789759594df0741"><![CDATA[Loading error]]></title>
+                <message dbid="657ae1eba789759594df0742"><![CDATA[File not found:]]></message>
+                <confirm dbid="657ae1eba789759594df0743"><![CDATA[Retry]]></confirm>
+                <cancel dbid="657ae1eba789759594df0744"><![CDATA[Close course]]></cancel>
+            </file>
+            <connection>
+                <title dbid="657ae1eba789759594df0745"><![CDATA[Connection error]]></title>
+                <message dbid="657ae1eba789759594df0746"><![CDATA[Connection lost, please log in again. If the problem persists, please contact IT Support.]]></message>
+                <confirm dbid="657ae1eba789759594df0747"><![CDATA[Close course]]></confirm>
+            </connection>
+            <lms>
+                <title dbid="657ae1eba789759594df0748"><![CDATA[LMS connection error]]></title>
+                <message dbid="657ae1eba789759594df0749"><![CDATA[LMS connection lost, please log in again. If the problem persists, please contact IT Support.]]></message>
+                <confirm dbid="657ae1eba789759594df074a"><![CDATA[Close course]]></confirm>
+            </lms>
+        </errors>
+        <certificate>
+            <title dbid="657ae1eba789759594df074b"><![CDATA[Certificate of completion]]></title>
+            <text dbid="657ae1eba789759594df074c"><![CDATA[successfully completed]]></text>
+            <date dbid="657ae1eba789759594df074d"><![CDATA[Award Date: {date}]]></date>
+            <courseid dbid="657ae1eba789759594df074e"><![CDATA[Course ID: {courseid}]]></courseid>
+        </certificate>
+        <compatibility>
+            <title dbid="657ae1eba789759594df074f"><![CDATA[Compatibility mode error]]></title>
+            <message>
+                <p dbid="657ae1eba789759594df0750"><![CDATA[It appears your browser is running in a compatibility mode that is preventing this course from loading.]]></p>
+                <p dbid="657ae1eba789759594df0751"><![CDATA[Follow the following steps to resolve this issue:]]></p>
+                <ol>
+                    <li dbid="657ae1eba789759594df0752"><![CDATA[Go to <strong>Tools</strong> <img id="ieToolsIcon" src="launch/images/ieToolsIcon.jpg"> and select <strong>Compatibility Mode settings</strong> from the Menu.]]></li>
+                    <li dbid="657ae1eba789759594df0753"><![CDATA[A window opens up, select <strong>‘[HOSTNAME]’</strong> from the list and click on <strong>Remove</strong>.]]></li>
+                    <li dbid="657ae1eba789759594df0754"><![CDATA[Click <strong>Close</strong> and try launching the training again.]]></li>
+                </ol>
+                <p dbid="657ae1eba789759594df0755"><![CDATA[If the problem persists, please contact IT Support.]]></p>
+            </message>
+        </compatibility>
+        <disclaimer>
+            <title dbid="657ae1eba789759594df0756"><![CDATA[Disclaimer]]></title>
+            <p dbid="657ae1eba789759594df0757"><![CDATA[]]></p>
+        </disclaimer>
+        <links>
+            <!-- <link id="id_here" url="https://link.com">
+                <title dbid=""><![CDATA[Link title]]></title>
+            </link> -->
+        </links>
+    </settings>
+    <date>
+        <format dbid="657ae1eba789759594df0758"><![CDATA[{D} {M} {Y}]]></format>
+        <!-- {D}=day {M}=month {Y}=year -->
+        <days>
+            <day dbid="657ae1eba789759594df0759"><![CDATA[Sunday]]></day>
+            <day dbid="657ae1eba789759594df075a"><![CDATA[Monday]]></day>
+            <day dbid="657ae1eba789759594df075b"><![CDATA[Tuesday]]></day>
+            <day dbid="657ae1eba789759594df075c"><![CDATA[Wednesday]]></day>
+            <day dbid="657ae1eba789759594df075d"><![CDATA[Thursday]]></day>
+            <day dbid="657ae1eba789759594df075e"><![CDATA[Friday]]></day>
+            <day dbid="657ae1eba789759594df075f"><![CDATA[Saturday]]></day>
+        </days>
+        <months>
+            <month dbid="657ae1eba789759594df0760"><![CDATA[January]]></month>
+            <month dbid="657ae1eba789759594df0761"><![CDATA[February]]></month>
+            <month dbid="657ae1eba789759594df0762"><![CDATA[March]]></month>
+            <month dbid="657ae1eba789759594df0763"><![CDATA[April]]></month>
+            <month dbid="657ae1eba789759594df0764"><![CDATA[May]]></month>
+            <month dbid="657ae1eba789759594df0765"><![CDATA[June]]></month>
+            <month dbid="657ae1eba789759594df0766"><![CDATA[July]]></month>
+            <month dbid="657ae1eba789759594df0767"><![CDATA[August]]></month>
+            <month dbid="657ae1eba789759594df0768"><![CDATA[September]]></month>
+            <month dbid="657ae1eba789759594df0769"><![CDATA[October]]></month>
+            <month dbid="657ae1eba789759594df076a"><![CDATA[November]]></month>
+            <month dbid="657ae1eba789759594df076b"><![CDATA[December]]></month>
+        </months>
+    </date>
+    <shared></shared>
+</course>

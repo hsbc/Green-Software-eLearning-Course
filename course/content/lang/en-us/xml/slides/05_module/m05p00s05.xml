@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08f6"><![CDATA[Hardware efficiency principle - key points]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08f7"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="" bkgImage="footers/hardware_summary_footer.png">
+            <row>
+                <column class="col-sm-offset-2" sm="8">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df08f8"><![CDATA[Hardware efficiency principle - key points​]]></h2>
+                        <ol>
+                            <li dbid="657ae1eba789759594df08f9"><![CDATA[Embodied carbon is the amount of carbon pollution emitted during the creation and disposal of a device.]]></li>
+                            <li dbid="657ae1eba789759594df08fa"><![CDATA[When calculating your total carbon emissions, you must consider both that which is emitted when running a device as well as the embodied carbon associated with its creation and disposal.]]></li>
+                            <li dbid="657ae1eba789759594df08fb"><![CDATA[Extending the lifetime of a device has the effect of amortising the carbon emitted so that its CO2eq/year is reduced (why not keep your smartphone going longer or trade in for a used device).]]></li>
+                            <li dbid="657ae1eba789759594df08fc"><![CDATA[Cloud computing tends to be more energy efficient than an on-premise server as it can apply demand shifting as well as demand shaping.]]></li>
+                            <li dbid="65a8f7b6b034e4be368d804f"><![CDATA[When changing or purchasing power intensive hardware (such as servers) determine which option has the best carbon profile (e.g. whether to replace the device or not to get the best amortisation vs energy usage).]]></li>
+                        </ol>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

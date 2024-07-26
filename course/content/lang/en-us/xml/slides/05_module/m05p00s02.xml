@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08b3"><![CDATA[Hardware Introduction]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08b4"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0">
+            <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df08b5"><![CDATA[The hardware used in the process of creating your software is an important element to consider for green software engineers.]]></p>
+                        <p dbid="657ae1eba789759594df08b6"><![CDATA[Embodied carbon is a hidden cost when it comes to hardware. There are different measures you can take to reduce the impact that the creation, destruction and running of this hardware consumes. For example, extending the lifetime of a server or switching to cloud servers.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img" bkgImage="ui/grey/page_split_07.png"></section>
+    </components>
+</contents>

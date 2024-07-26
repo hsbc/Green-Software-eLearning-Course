@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+    <question_progress dbid="657ae1eba789759594df076d"><![CDATA[Question [NUM] of [TOTAL]]]></question_progress>
+    <instructions>
+        <single dbid="657ae1eba789759594df076e"><![CDATA[Select one answer, then select ‘OK’.]]></single>
+        <multiple dbid="657ae1eba789759594df076f"><![CDATA[Select the correct answers, then select ‘OK’.]]></multiple>
+        <notlast dbid="657ae1eba789759594df0770"><![CDATA[Scroll down.]]></notlast>
+        <last dbid="657ae1eba789759594df0771"><![CDATA[Select ‘Continue’.]]></last>
+    </instructions>
+    <components>
+        <component type="instruction">
+            <text dbid="657ae1eba789759594df0772"><![CDATA[Select one answer, then select ‘OK’.]]></text>
+            <text dbid="657ae1eba789759594df0773"><![CDATA[Select the correct answers, then select ‘OK’.]]></text>
+        </component>
+    </components>
+    <lastquestion>
+        <!-- <instruction><text><![CDATA[Select ‘Continue’.]]></text></instruction> -->
+        <components>
+            <component type="button" class="continueBtn pull-right" actions="next()" showOnComplete="true">
+                <text dbid="657ae1eba789759594df0774"><![CDATA[Continue]]></text>
+            </component>
+        </components>
+    </lastquestion>
+    <!-- KC -->
+    <assessment id="kc">
+        <name dbid="657ae1eba789759594df0775"><![CDATA[]]></name>
+        <banks>
+            <bank>
+                <questions>
+                    <question>
+                        <question>
+                            <question dbid="657ae1eba789759594df0776"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut aliquam tincidunt, nunc nisl aliquam nisl, eget aliquam nisl.]]></question>
+                            <submit dbid="657ae1eba789759594df0777"><![CDATA[OK]]></submit>
+                            <secondary dbid="657ae1eba789759594df0778"><![CDATA[]]></secondary>
+                            <options>
+                                <option correct="true" dbid="657ae1eba789759594df0779"><![CDATA[1]]></option>
+                                <option correct="false" dbid="657ae1eba789759594df077a"><![CDATA[2]]></option>
+                                <option correct="false" dbid="657ae1eba789759594df077b"><![CDATA[3]]></option>
+                            </options>
+                        </question>
+                    </question>
+                </questions>
+            </bank>
+        </banks>
+    </assessment>
+</content>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0830"><![CDATA[utilise a computer]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0831"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="mb-0 pb-0">
+            <row class="gap30 flex-row">
+                <column sm="6">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df0832"><![CDATA[The more we utilise a computer, the more efficient it becomes at converting electricity to practical computing operations.]]></p>
+                        <p dbid="657ae1eba789759594df0833"><![CDATA[One way to improve hardware efficiency is to run the workload on as few servers as possible, with the servers running at the highest utilisation rate, maximizing energy efficiency.]]></p>
+                    </component>
+                </column>
+                <column sm="6" style="display: flex;
+                    align-items: end;
+                    justify-items: end;
+                    justify-content: start;">
+                    <component type="image" src="module_03/panel_grx_07.png" class="mb-0 pb-0">
+                        <alt dbid="657ae1eba789759594df0834"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0829"><![CDATA[Energy proportionality ​]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df082a"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="">
+            <row class="gap30 flex-row">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df082b"><![CDATA[Energy proportionality ​]]></h2>
+                    </component>
+                </column>
+                <column sm="5">
+                    <component type="image" src="module_03/EnergyProportionality.png">
+                        <alt dbid="657ae1eba789759594df082c"><![CDATA[]]></alt>
+                    </component>
+                </column>
+                <column sm="7 " style="display: flex;
+                align-items: center;
+                justify-items: center;
+                justify-content: start;">
+                    <component type="text">
+                        <p dbid="657ae1eba789759594df082d"><![CDATA[Energy proportionality, first proposed in 2007 by engineers at Google, measures the relationship between power consumed by a computer and the rate at which useful work is done (its utilisation).]]></p>
+                        <p dbid="657ae1eba789759594df082e"><![CDATA[Utilisation measures how much of a computer's resources are used, usually given as a percentage. A fully utilised computer running at its maximum capacity has a high percentage, while an idle computer with no utilisation has a lower percentage.]]></p>
+                        <p dbid="657ae1eba789759594df082f"><![CDATA[The relationship between power and utilisation is not proportional. For example, at 0% utilisation, a computer can draw 100W, but at 50%, it draws 180W, and at 100%, it draws 200W. The relationship between power consumption and utilisation is not linear.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

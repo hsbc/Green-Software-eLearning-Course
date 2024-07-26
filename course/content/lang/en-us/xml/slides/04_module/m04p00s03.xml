@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df085b"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df085c"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 bkgColorLightGrey">
+            <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df085d"><![CDATA[Key concepts of carbon awareness]]></h2>
+                    </component>
+                </column>
+            </row>
+            <row class="">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df085e"><![CDATA[Select each concept to find out more.]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/carbon_intensity.png" actions="modal(0)">
+                        <text dbid="657ae1eba789759594df085f"><![CDATA[Carbon intensity]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/variability.png" actions="modal(1)">
+                        <text dbid="657ae1eba789759594df0860"><![CDATA[Variability of carbon intensity]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/dispatchability.png" actions="modal(2)">
+                        <text dbid="657ae1eba789759594df0861"><![CDATA[Dispatchability & curtailment]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_04/marginal_carbon.png" actions="modal(3)">
+                        <text dbid="657ae1eba789759594df0862"><![CDATA[Marginal carbon intensity]]></text>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGrey" bkgImage="module_04/carbon_principle_divider_02.png"></section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df0863"><![CDATA[Carbon intensity]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df0864"><![CDATA[​Carbon intensity measures how much carbon (CO2 equivalent) is emitted per kilowatt-hour (KWh) of electricity consumed. The standard unit of carbon intensity is gCO2eq/kWh, or grams of carbon per kilowatt hour.]]></p>
+                            <p dbid="657ae1eba789759594df0865"><![CDATA[If your computer is plugged directly into a wind farm, its electricity would have a carbon intensity of 0 gCO2eq/kWh. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources.]]></p>
+                            <p dbid="657ae1eba789759594df0866"><![CDATA[Your carbon intensity will be a mix of all the current power sources in a grid, both the lower-carbon and the higher-carbon sources.]]></p>
+                            <p dbid="65a8f727c162cabd044b6b04"><![CDATA[Additionally, large organisations may purchase power via different agreements (Power Purchase Agreements) which can change the mix of power sources, providing lower carbon options vs the grid supply.]]></p>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df0867"><![CDATA[Variability of carbon intensity]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df0868"><![CDATA[​Carbon intensity varies by location since some regions have an energy mix containing more clean energy sources than others.]]></p>
+                            <p dbid="657ae1eba789759594df0869"><![CDATA[Carbon intensity also changes over time due to the inherent variability of renewable energy caused by the unpredictability of weather conditions. For example, when it's cloudy or the wind isn't blowing, carbon intensity increases since more of the electricity in your mix comes from sources that emit carbon]]></p>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df086b"><![CDATA[Dispatchability & curtailment]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df086c"><![CDATA[Electricity demand varies during the day, and supply always needs to be able to meet that demand.]]></p>
+                            <p dbid="657ae1eba789759594df086d"><![CDATA[There needs to be a balance between the demand and supply of electricity at all times and the responsibility for this usually falls to the utility provider.]]></p>
+                            <p dbid="657ae1eba789759594df086e"><![CDATA[In the case of fossil fuels such as coal, it is easier to control the power produced for this supply; this is called <b>dispatchability</b>. However, in the case of renewable power sources such as wind farms, the power produced cannot easily be controlled. If the power source produces more electricity than is needed, that electricity is thrown away; this is called <b>curtailment</b>.
+                               ]]></p>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df086f"><![CDATA[Marginal carbon intensity]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df0870"><![CDATA[Marginal carbon intensity is the difference between the baseline carbon production of a power plant (as the power plant has to remain on), and the amount produced when meeting demand. The marginal power plant is dispatchable, which means marginal power plants are often powered by fossil fuels.
+                               ]]></p>
+                            <p dbid="657ae1eba789759594df0871"><![CDATA[Fossil-fueled power plants rarely scale down to 0. They have a minimum functioning threshold, and some don't scale; they are considered a consistent, always-on baseload. Because of this, we sometimes have the scenario where we curtail (throw away) renewable energy while still consuming energy from fossil fuel power plants.]]></p>
+                        </component>
+                    </column>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df0873"><![CDATA[In these situations, the marginal carbon intensity will be 0 gCO2eq/kWh since we know that any new demand will match the renewable energy we are curtailing.]]></p>
+                        </component>
+                    </column>
+                    <column sm="12">
+                        <component type="image" src="module_04/graph_marginal.png">
+                            <alt dbid="657ae1eba789759594df0872"><![CDATA[Graph showing that when demand goes down, excess renewable energy is thrown away. When demand goes up additional energy is provided by curtailed renewables.]]></alt>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+    </modals>
+</contents>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08c6"><![CDATA[Key concepts]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08c7"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGrey mb-0 pb-0">
+            <row class="">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df08c8"><![CDATA[Key concepts​]]></h2>
+                    </component>
+                    <component type="instruction">
+                        <text dbid="657c6cbcfaacb07a98047f33"><![CDATA[Select each concept to find out more.]]></text>
+                    </component>
+                    <component type="accordion">
+                        <item>
+                            <title dbid="657ae1eba789759594df08c9"><![CDATA[Embodied carbon]]></title>
+                            <reveal>
+                                <row class="mb-3">
+                                    <column sm="12">
+                                        <p dbid="657ae1eba789759594df08ca"><![CDATA[The device you are doing this training on has produced carbon when it was manufactured and, once it reaches the end of life, disposing of it may release more. Embodied carbon (also referred to as "embedded carbon") is the amount of carbon pollution emitted during the creation and disposal of a device. This includes the extraction, production and transport of raw materials and also the manufacture, shipping and assembly, plus packaging of every device.]]></p>
+                                        <p dbid="657ae1eba789759594df08cb"><![CDATA[When calculating the total carbon pollution for computers running software, both the carbon pollution associated with running the computer as well as the embodied carbon of the computer must be accounted ​for.]]></p>
+                                    </column>
+                                </row>
+                                <row class="gap20">
+                                    <column sm="12">
+                                        <p dbid="657ae1eba789759594df08cd"><![CDATA[Embodied carbon varies significantly between end-user devices. For some devices, the carbon emitted during manufacturing is much higher than that emitted during usage. As a result, the embodied carbon cost can sometimes be much higher than the carbon cost of the electricity powering it.]]></p>
+                                        <p dbid="657ae1eba789759594df08ce"><![CDATA[By thinking in terms of embodied carbon, any device, even one not consuming electricity, is responsible for the release of carbon over its lifetime.]]></p>
+                                    </column>
+                                    <column sm="12">
+                                        <component type="image" src="module_05/graph_02.png" class="pt-2">
+                                            <alt dbid="657ae1eba789759594df08cc"><![CDATA[]]></alt>
+                                        </component>
+                                    </column>
+                                </row>
+                            </reveal>
+                        </item>
+                        <item>
+                            <title dbid="657ae1eba789759594df08cf"><![CDATA[Amortisation]]></title>
+                            <reveal>
+                                <row class="gap20">
+                                    <column sm="12">
+                                        <p dbid="657ae1eba789759594df08d0"><![CDATA[A way to account for embodied carbon is to spread the carbon over the expected life span of a device. For example, suppose it took 4000kg CO2eq to build a server, and we expect it to last four years. Amortisation means that we can say the server emits 1000kg CO2eq/year.]]></p>
+                                    </column>
+                                    <column sm="12">
+                                        <component type="image" src="module_05/amortisation.png" class="pt-2">
+                                            <alt dbid="657ae1eba789759594df08d1"><![CDATA[]]></alt>
+                                        </component>
+                                    </column>
+                                </row>
+                            </reveal>
+                        </item>
+                        <item>
+                            <title dbid="65afc890ac935c526b72f4bf"><![CDATA[Comparing end user devices vs servers]]></title>
+                            <reveal>
+                                <row class="gap20">
+                                    <column sm="12">
+                                        <p dbid="65afc890ac935c526b72f4c0"><![CDATA[End user devices typically have higher emissions from production than use, this is largely because they consume low amounts of energy whilst in use.]]></p>
+                                        <p dbid="65afc890ac935c526b72f4c1"><![CDATA[Servers are typically more power intensive and therefore have higher emissions from use rather than their production.]]></p>
+                                        <p dbid="65afc890ac935c526b72f4c2"><![CDATA[When developing software it's important to consider the emissions of the servers that your code runs on, as well as the impact to the end user devices using your app. Even though end user devices have a small energy use, if you have millions of users then the emissions add up.]]></p>
+                                        <p dbid="65afc890ac935c526b72f4c3"><![CDATA[Similarly, you need to be conscious of how well you are using the energy from your server. There are many things that can impact a server’s overall emissions. ]]></p>
+                                        <p dbid="65afc890ac935c526b72f4c4"><![CDATA[For example: ]]></p>
+                                        <ul>
+                                            <li dbid="65afc890ac935c526b72f4c5"><![CDATA[low CPU utilisation still produces significant power consumption ]]></li>
+                                            <li dbid="65afc890ac935c526b72f4c6"><![CDATA[older servers may have more energy intensive power supplies than newer models ]]></li>
+                                            <li dbid="65afc890ac935c526b72f4c7"><![CDATA[the production and shipping of the server to you may have a different journey and emission profile depending on the vendor ]]></li>
+                                        </ul>
+                                        <p dbid="65afc890ac935c526b72f4c8"><![CDATA[It's important to understand your emissions from both perspective. ]]></p>
+                                    </column>
+                                    <column sm="12">
+                                        <component type="image" src="module_05/embodied_carbon_02.png" class="pt-2">
+                                            <alt dbid="65afd7b00225bfa040b9c080"><![CDATA[]]></alt>
+                                        </component>
+                                    </column>
+                                </row>
+                            </reveal>
+                        </item>
+                    </component>
+                </column>
+            </row>
+            <row class="flex-row mt-5">
+                <column sm="6">
+                    <component type="text" class="mt-5 pb-3">
+                        <h2 class="" dbid="657ae1eba789759594df08d2"><![CDATA[How to improve hardware efficiency]]></h2>
+                        <p dbid="657ae1eba789759594df08d3"><![CDATA[If we take into account the embodied carbon, it is clear that by the time we come to buy a computer, it has already emitted a good deal of carbon. In these terms, hardware is a proxy for carbon, and since our goal is to be carbon efficient, we must also be hardware efficient.]]></p>
+                        <p dbid="657ae1eba789759594df08d4"><![CDATA[There are two main approaches to hardware efficiency:]]></p>
+                        <ul>
+                            <li dbid="657ae1eba789759594df08d5"><![CDATA[For end-user devices, we should be extending the lifespan of the hardware.]]></li>
+                            <li dbid="657ae1eba789759594df08d6"><![CDATA[For server based computing, we should be increasing the utilisation of the device.]]></li>
+                        </ul>
+                    </component>
+                </column>
+                <column sm="6" style="display: flex;
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" src="module_05/improve_hardware.png" class="mb-0">
+                        <alt dbid="657ae1eba789759594df08d7"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

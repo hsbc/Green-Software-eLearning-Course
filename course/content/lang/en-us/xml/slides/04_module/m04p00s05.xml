@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0844"><![CDATA[Carbon intensity]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0845"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="mb-0 pb-0" showOnComplete="true">
+            <row class="flex-row">
+                <column sm="6">
+                    <component type="text">
+                        <p class="" dbid="657ae1eba789759594df0846"><![CDATA[Reducing the amount of electricity consumed in your applications can help decrease the energy's carbon intensity as fossil fuels are the first type of energy to be scaled back.]]></p>
+                        <p class="" dbid="657ae1eba789759594df0847"><![CDATA[In order to help the move to net zero, our goal should be to increase investment into lower carbon energy sources, like renewables, and decrease investment into higher carbon sources, like coal. The best way to ensure money flows in the right direction is to make sure you use electricity with the least carbon intensity.]]></p>
+                    </component>
+                </column>
+                <column sm="6" style="display: flex;
+                align-items: end;
+                justify-items: end;
+                justify-content: start;">
+                    <component type="image" src="module_03/panel_grx_16.png" class="mb-0">
+                        <alt dbid="657ae1eba789759594df0848"><![CDATA[]]></alt>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

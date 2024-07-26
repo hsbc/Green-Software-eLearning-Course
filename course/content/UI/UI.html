@@ -1,0 +1,186 @@
+<div class="ui-container">
+    
+    <a href="#content" class="sr-only sr-only-focusable"><span id="acc_skiptocontent">Skip to main content</span></a>
+    
+    <nav class="navbar navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+<!--                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar,#navmenubar" aria-expanded="false">-->
+                <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                    <span class="sr-only"><span id="acc_togglenavigation"></span></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button> -->
+                <a class="navbar-brand" href="javascript:void(0);" tabindex="-1">
+                    <img src=""/>
+                </a>
+                <div class="navbar-textwrap">
+                    <!-- <p class="navbar-text"></p> -->
+                </div>
+            </div>
+                
+            <!-- <div id="navbar" class="collapse navbar-collapse"> -->
+            <div id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li id ="language-dropdown" class="language-dropdown dropdown" data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Language" href="#" class="btn_Language dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Language">
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                        </ul>
+                    </li>
+                    <li class="search-dropdown dropdown" data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Search" href="#" class="btn_Search dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Search">
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                             <li>
+                                <form class="search_form" role="search">
+                                    <div class="input-group">
+                                        <input id="content_search" type="text" class="form-control search-input content_search" placeholder="" aria-label="Search">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default btn_SearchGo" type="submit" aria-controls="content_search" aria-label="Search"><span class="btn_text"></span></button>
+                                        </span>
+                                    </div>
+                                </form>
+                                <div class="search-results"></div>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- Menu -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Menu" href="#" class="btn_Menu" role="button" aria-label="Menu" >
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                    <!-- Resources -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Resource" class="btn_Resource" role="button" href="javascript:void(0);" >
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                    <!-- Help -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Help" class="btn_Help" role="button" href="javascript:void(0);" >
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                    <!-- Audio -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Audio" class="btn_Audio" role="button" href="javascript:void(0);" >
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                    <!-- Glossary -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Glossary" class="btn_Glossary" role="button" href="javascript:void(0);" >
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                    <!-- Exit -->
+                    <li data-toggle="tooltip" data-placement="bottom" title="">
+                        <a id="btn_Exit" class="btn_Exit" role="button" href="javascript:void(0);" aria-haspopup="dialog">
+                            <div class="btn_icon"></div>
+                            <span class="btn_text"></span>
+                        </a>
+                    </li>
+                </ul>
+                <div id="userProgress" class="clearfix">
+                    <div class="pointsPanel">
+                        <div id="points">
+                            <span id="points-score">0</span><span id="points-percentage">%</span>
+                        </div>
+                        <!--<span id="points-text"></span>-->
+                    </div>
+                    <div id="progress">
+                        <div id="progress-text" class="sr-only"></div>
+                        <div id="progressBar" role="progressbar" aria-labelledby="progress-text" aria-valuenow="0">
+                            <div class="progress-bar-status"></div>
+                            <div id="progress-sections" class="progress-sections">
+                            </div>   
+                            <div id="progress-section-marker" class="progress-section-marker"></div>
+                        </div>   
+                    </div>   
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="pageBackground" aria-hidden="true"></div>
+    <div id="content" class="pageContainer" role="main" aria-label="Main content"></div>
+    <div class="scroll-down-arrow"></div>
+    <!--<ul class="sidemenu">
+        <li>
+            <a class="btn btn_Contact" href="javascript:void(0);">
+                <div class="btn_icon"></div>
+                <span class="btn_text"></span>
+            </a>
+        </li>
+    </ul>-->
+    <div class="bottomNavigation">
+        <div class="content-locked-alert">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="content-locked-message"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 nav-btns-container">
+                    <!-- <div class="scroll-arrow" aria-hidden="true"></div> -->
+                    <ul class="nav-btns">
+                    	<!-- Exit -->
+                        <!-- <li data-toggle="tooltip" data-placement="bottom" title=""> -->
+                        <!-- <li id="li_btn_Exit">
+                            <button id="btn_Exit" class="nav-btn btn_Exit" role="button" href="javascript:void(0);" >
+                               
+                                <span class="btn_text"></span>
+                            </button>
+                        </li> -->
+                    	<!-- Menu -->
+                        <li id="li_btn_Menu">
+                            <button id="btn_Menu" class="nav-btn btn_Menu" role="button" href="javascript:void(0);" >
+                                <!-- <div class="btn_icon"></div> -->
+                                <span class="btn_text"></span>
+                            </button>
+                        </li>
+                    	<!-- Back -->
+                        <li id="li_btn_Back">
+                            <button id="btn_Back" class="nav-btn btn_Back" role="button" href="javascript:void(0);" >
+                                <!-- <div class="btn_icon"></div> -->
+                                <span class="btn_text"></span>
+                            </button>
+                        </li>
+                    	<!-- Next -->
+                        <li id="li_btn_Next">
+                            <button id="btn_Next" class="nav-btn btn_Next" role="button" href="javascript:void(0);" >
+                                <!-- <div class="btn_icon"></div> -->
+                                <span class="btn_text"></span>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 footer-text"></div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="debug hidden" aria-hidden="true">
+    </div>
+</div>

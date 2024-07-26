@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00.157 --> 00:03.607 [ID:657ae1d0a789759594df06c3]
+All software, from the applications running on mobile phones
+
+2
+00:03.625 --> 00:08.884 [ID:657ae1d0a789759594df06c4]
+to the training of Machine learning models running in data centers, consume electricity.
+
+3
+00:09.140 --> 00:14.825 [ID:657ae1d0a789759594df06c5]
+One of the best ways to reduce electricity consumption and the subsequent carbon emissions from software
+
+4
+00:14.850 --> 00:17.975 [ID:657ae1d0a789759594df06c6]
+is to make applications more energy efficient. 
+
+5
+00:18.161 --> 00:23.536 [ID:657ae1d0a789759594df06c7]
+Green software engineers should take responsibility for the energy consumed by their products
+
+6
+00:23.558 --> 00:26.353 [ID:657ae1d0a789759594df06c8]
+and design them to consume as little as possible.
+
+7
+00:26.620 --> 00:31.955 [ID:657ae1d0a789759594df06c9]
+We should make sure that, at every step in the process, there is as little waste as possible.
+
+8
+00:32.731 --> 00:38.376 [ID:657ae1d0a789759594df06ca]
+This means our goal is not simply to make the most energy efficient code or the “greenest” software,
+
+9
+00:38.406 --> 00:44.191 [ID:657ae1d0a789759594df06cb]
+ but to think about the end user and how to make sure they are not creating unnecessary emissions.
+
+10
+00:44.528 --> 00:49.793 [ID:657ae1d0a789759594df06cc]
+This might mean batching jobs together to take advantage of energy proportionality
+
+11
+00:49.817 --> 00:52.912 [ID:657ae1d0a789759594df06cd]
+or changing how a user uses your software. 
+
+12
+00:53.542 --> 01:00.347 [ID:657ae1d0a789759594df06ce]
+Let's explore some of these concepts and some ways that you can become more energy efficient at every stage of the chain, 
+
+13
+01:00.370 --> 01:02.845 [ID:657ae1d0a789759594df06cf]
+right up to the final consumer.

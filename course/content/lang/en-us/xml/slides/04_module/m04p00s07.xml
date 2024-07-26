@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0887"><![CDATA[Demand shifting]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0888"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 bkgColorLightGreen">
+            <row class="gap30">
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df0889"><![CDATA[Demand shifting​]]></h2>
+                        <p dbid="657ae1eba789759594df088a"><![CDATA[Being carbon aware means responding to shifts in carbon intensity by increasing or decreasing your demand. If your work allows you to be flexible with when and where you run workloads, you can shift accordingly - consuming electricity when the carbon intensity is lower and pausing production when it is higher. For example, training a Machine Learning model at a different time or region with much lower carbon intensity.]]></p>
+                        <p dbid="657ae1eba789759594df088b"><![CDATA[Studies show these actions can result in 45% to 99% carbon reductions depending on the number of renewables powering the grid. (<a target="_blank" href="https://ieeexplore.ieee.org/document/6128960">Source</a>)]]></p>
+                        <p dbid="657ae1eba789759594df088c"><![CDATA[Demand shifting can be further broken down into spatial and temporal shifting.]]></p>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

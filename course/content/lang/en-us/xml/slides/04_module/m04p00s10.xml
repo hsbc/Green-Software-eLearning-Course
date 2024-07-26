@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df088d"><![CDATA[Examples]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df088e"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="pb-0 bkgColorLightGrey">
+            <row class="gap30">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df088f"><![CDATA[Select each example to find out more.]]></text>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front bkgImage="icons/icon_washing_machine.png">
+                            <title class="sr-only" dbid="657ae1eba789759594df0890"><![CDATA[Eco mode]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <!-- <component type="image" src="icons/washing_machine.png"></component> -->
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df0891"><![CDATA[Eco mode on a washing machine.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front bkgImage="icons/icon_video_call.png">
+                            <title class="sr-only" dbid="657ae1eba789759594df0892"><![CDATA[Video conferencing]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <!-- <component type="image" src="icons/video_call.png"></component> -->
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df0893"><![CDATA[Video conferencing software that adjusts streaming quality automatically.]]></text>
+                        </back>
+                    </component>
+                </column>
+                <column sm="4">
+                    <component type="flipcard">
+                        <front bkgImage="icons/icon_transfer_speed.png">
+                            <title class="sr-only" dbid="657ae1eba789759594df0894"><![CDATA[TCP/IP]]></title>
+                            <components>
+                                <!-- can contain sub components if required -->
+                                <!-- <component type="image" src="icons/transfer_speed.png"></component> -->
+                            </components>
+                        </front>
+                        <back>
+                            <components>
+                                <!-- can contain sub components if required -->
+                            </components>
+                            <text dbid="657ae1eba789759594df0895"><![CDATA[TCP/IP – transfer speed in response to how much data is broadcast over the wire.]]></text>
+                        </back>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGrey" bkgImage="ui/white/page_split_02.png"></section>
+    </components>
+</contents>

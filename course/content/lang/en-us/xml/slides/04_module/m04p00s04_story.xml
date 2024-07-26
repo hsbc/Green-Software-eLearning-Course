@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0877"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0878"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="mb-0 pb-0">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df0879"><![CDATA[Energy markets]]></h2>
+                        <p dbid="657c18c3c2520c8118f4d41d"><![CDATA[The exact market model varies around the world but broadly follows the same model.]]></p>
+                    </component>
+                    <component type="instruction" class="">
+                        <text dbid="657ae1eba789759594df087a"><![CDATA[Select the arrow buttons to find out more.]]></text>
+                    </component>
+                </column>
+            </row>
+            <!-- <row>
+                <column sm="12">
+                    <div class="hotspot-img-container">
+                        <component type="image" src="module_02/3d_building.png" class="img-full">
+                            <hotspots>
+                                <component type="button" class="hotspot pulseShadow" svg="plusminus" svgComplete="tick" actions="modal(0)" anim="none" top="25%" left="60%">
+                                    <text dbid="6576db05a8291e4d482a1ea9"><![CDATA[Carbon Neutral]]></text>
+                                </component>
+                                <component type="button" class="hotspot pulseShadow" svg="plusminus" svgComplete="tick" actions="modal(1)" anim="none" top="48%" left="20%">
+                                    <text dbid="6576db05a8291e4d482a1eaa"><![CDATA[Net Zero]]></text>
+                                </component>
+                            </hotspots>
+                        </component>
+                    </div>
+                </column>
+            </row> -->
+            <row>
+                <column sm="12">
+                    <component type="BuildupCarousel" class="text-bottom ratio16x6 eMarkets" mode="fade">
+                        <slide bkgImage="module_04/energy_markets/panel_01.png">
+                            <h4 dbid="657ae1eba789759594df087b"><![CDATA[Low demand]]></h4>
+                            <p dbid="657ae1eba789759594df087c"><![CDATA[When the demand for electricity goes down, utilities need to reduce the supply to balance supply and demand. They can do this in one of two ways...]]></p>
+                        </slide>
+                        <slide bkgImage="module_04/energy_markets/panel_02.png">
+                            <h4 dbid="657ae1eba789759594df087d"><![CDATA[Low demand]]></h4>
+                            <p dbid="657ae1eba789759594df087e"><![CDATA[<strong>1. Buy less energy from fossil fuel plants.</strong> <br/>Energy from fossil fuel plants is usually the most expensive so this is the preferred method. This directly translates to burning fewer fossil fuels.]]></p>
+                        </slide>
+                        <slide bkgImage="module_04/energy_markets/panel_03.png">
+                            <h4 dbid="657ae1eba789759594df087f"><![CDATA[Low demand]]></h4>
+                            <p dbid="657ae1eba789759594df0880"><![CDATA[<strong>2. Buy less energy from renewable sources.</strong> <br/>Renewable sources are the cheapest, so they prefer not to do this. If a renewable source doesn't manage to sell all of its electricity, it may have to throw the rest away.]]></p>
+                        </slide>
+                        <slide bkgImage="module_04/energy_markets/panel_04.png">
+                            <h4 dbid="657ae1eba789759594df0881"><![CDATA[High demand]]></h4>
+                            <p dbid="657ae1eba789759594df0882"><![CDATA[When the demand for electricity goes up, utilities need to increase the supply to balance supply and demand. They can do this in one of two ways...]]></p>
+                        </slide>
+                        <slide bkgImage="module_04/energy_markets/panel_05.png">
+                            <h4 dbid="657ae1eba789759594df0883"><![CDATA[High demand]]></h4>
+                            <p dbid="657ae1eba789759594df0884"><![CDATA[<strong>1. Buy more energy from renewable sources that are currently being curtailed.</strong><br/>If you are curtailing, it means you have excess energy you could dispatch. Renewable energy is already the cheapest, so curtailed renewable energy will be the cheapest dispatchable energy source. Renewable plants will then sell the energy they would have had to curtail.]]></p>
+                        </slide>
+                        <slide bkgImage="module_04/energy_markets/panel_06.png">
+                            <h4 dbid="657ae1eba789759594df0885"><![CDATA[High demand]]></h4>
+                            <p dbid="657ae1eba789759594df0886"><![CDATA[<strong>2. Buy more energy from fossil fuel plants.</strong><br/>Fossil fuels are inherently dispatchable; they can quickly increase energy production by burning more. However, coal costs money, so this is the least preferred solution.]]></p>
+                        </slide>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df08fd"><![CDATA[Completion - Congratulations]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df08fe"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="" bkgImage="footers/summary_footer.png" style="height:400px;">
+            <row class="">
+                <!-- <column class="col-sm-offset-2" sm="1">
+                    <component type="image" svg="tick" class="check-image">
+                        <alt dbid="657ae1eba789759594df08ff"><![CDATA[Checkmark]]></alt>
+                    </component>
+                </column> -->
+                <column col_sm_offset="2" sm="8" col_lg_offset="3" lg="6">
+                    <component type="text">
+                        <h2 dbid="657ae1eba789759594df0900"><![CDATA[Congratulations]]></h2>
+                        <p dbid="657ae1eba789759594df0901"><![CDATA[You have now completed this elearning module on Green Software.]]></p>
+                        <p dbid="657ae1eba789759594df0902"><![CDATA[Well done, and keep championing positive change!]]></p>
+                    </component>
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df0903"><![CDATA[You can now close this page / tab.]]></text>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

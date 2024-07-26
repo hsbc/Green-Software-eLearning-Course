@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df07b4"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df07b5"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class=" mb-0 pb-0">
+            <row>
+                <column sm="12">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df07b6"><![CDATA[What does “Net Zero” mean?]]></h2>
+                    </component>
+                </column>
+                <column sm="12">
+                    <component type="instruction" class="">
+                        <text dbid="657ae1eba789759594df07b7"><![CDATA[Select the hotspots to find out more.]]></text>
+                    </component>
+                </column>
+            </row>
+            <row>
+                <column col_sm_offset="1" sm="10">
+                    <div class="hotspot-img-container">
+                        <component type="image" src="module_02/3d_building.png" class="img-full">
+                            <hotspots>
+                                <component type="button" class="hotspot pulseShadow" svg="plusminus" svgComplete="tick" actions="modal(0)" anim="none" top="52%" left="20%">
+                                    <text dbid="657ae1eba789759594df07b9"><![CDATA[Net Zero]]></text>
+                                </component>
+                                <component type="button" class="hotspot pulseShadow" svg="plusminus" svgComplete="tick" actions="modal(1)" anim="none" top="52%" left="53%">
+                                    <text dbid="657ae1eba789759594df07ba"><![CDATA[Science Based Targets]]></text>
+                                </component>
+                            </hotspots>
+                        </component>
+                    </div>
+                </column>
+            </row>
+        </section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df07c0"><![CDATA[Net Zero]]></title>
+            <components>
+                <component type="text">
+                    <p dbid="657ae1eba789759594df07c1"><![CDATA[Our goal is not to add any more carbon to the atmosphere and achieve net zero]]></p>
+                    <p dbid="657ae1eba789759594df07c2"><![CDATA[A net-zero target aims to eliminate emissions and only to use offsetting for the residual emissions that you cannot eliminate.]]></p>
+                    <p dbid="657ae1eba789759594df07c3"><![CDATA[This means that the actual amount of carbon in the atmosphere remains constant. A net-zero target, must cover direct and indirect (scopes 1, 2 and 3) emissions. Therefore, your entire value chain needs to be included in the scope of your net-zero target.]]></p>
+                    <p dbid="657c18c3c2520c8118f4d37f"><![CDATA[This is significant since scope 3 often represents the majority of emissions. ]]></p>
+                </component>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df07c4"><![CDATA[Science Based Targets initiative (SBTi)]]></title>
+            <components>
+                <component type="text">
+                    <p dbid="657ae1eba789759594df07c5"><![CDATA[Science-based targets provide a clearly-defined pathway for companies to reduce greenhouse gas (GHG) emissions, helping prevent the worst impacts of climate change and future-proof business growth.]]></p>
+                    <p dbid="6596c74102dd2cb62b72ac42"><![CDATA[ Targets are considered ‘science-based’ if they are in line with what the latest climate science deems necessary to meet the goals of the Paris Agreement – limiting global warming to 1.5°C above pre-industrial levels. The private sector must play a fundamental role in reducing GHG emissions. Embedding science-based targets in sustainability management is crucial. ]]></p>
+                    <p dbid="65a8f727c162cabd044b6a56"><![CDATA[ <a href="https://sciencebasedtargets.org/" target="_blank">Click here to find out more.</a>]]></p>
+                </component>
+            </components>
+        </modal>
+    </modals>
+</contents>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df0855"><![CDATA[The energy efficiency principle - key points]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df0856"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section bkgImage="footers/energy_summary_footer.png" style="height:400px;">
+            <row>
+                <column sm_offset="2" sm="8">
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df0857"><![CDATA[The energy efficiency principle - key points]]></h2>
+                        <ol>
+                            <li dbid="657ae1eba789759594df0858"><![CDATA[Green software engineering encourages engineers to build applications that are energy efficient.]]></li>
+                            <li dbid="657ae1eba789759594df0859"><![CDATA[Think about the hardware your software is running on and also PUE (power usage efficiency).]]></li>
+                            <li dbid="657ae1eba789759594df085a"><![CDATA[Remember the concept of energy proportionality: hardware becomes more efficient at turning electricity into useful operations the more it’s used.]]></li>
+                        </ol>
+                    </component>
+                </column>
+            </row>
+        </section>
+    </components>
+</contents>

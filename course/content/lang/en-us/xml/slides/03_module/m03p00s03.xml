@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <title dbid="657ae1eba789759594df07e6"><![CDATA[]]></title>
+    <transcript>
+        <text path="" id="0" dbid="657ae1eba789759594df07e7"><![CDATA[]]></text>
+    </transcript>
+    <components>
+        <section class="bkgColorLightGreen">
+            <row>
+                <column sm="12">
+                    <!-- <component type="text">
+                        <h2 class="heading-with-bg" dbid="646f5fedacd22a1b70623d27"><![CDATA[4 Main Drivers]]></h2>
+                    </component> -->
+                    <component type="text">
+                        <h2 class="" dbid="657ae1eba789759594df07e8"><![CDATA[Sources of energy]]></h2>
+                    </component>
+                </column>
+            </row>
+            <row class="pb-5">
+                <column sm="12">
+                    <component type="instruction">
+                        <text dbid="657ae1eba789759594df07e9"><![CDATA[Select the options for more details.]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_03/fossil_fuel.png" actions="modal(0)">
+                        <text dbid="657ae1eba789759594df07ea"><![CDATA[Fossil fuels and high-carbon ​]]></text>
+                    </component>
+                </column>
+                <column sm="6" class="mb-3">
+                    <component type="plusbutton" class="label-top label-transparent" src="module_03/low_carbon.png" actions="modal(1)">
+                        <text dbid="657ae1eba789759594df07eb"><![CDATA[Low-carbon sources​]]></text>
+                    </component>
+                </column>
+            </row>
+        </section>
+        <section class="section-split-img bkgColorLightGreen" bkgImage="ui/grey/page_split_02.png"></section>
+    </components>
+    <modals>
+        <modal>
+            <title dbid="657ae1eba789759594df07ec"><![CDATA[Fossil fuels and high-carbon​]]></title>
+            <components>
+                <row class="gap30">
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07ed"><![CDATA[Most electricity is produced through burning fossil fuels, usually coal. These fuels are found in the Earth's crust and contain carbon and hydrogen, which can be burned for energy. Coal, oil, and natural gas are examples of fossil fuels.]]></p>
+                            <p dbid="657ae1eba789759594df07ee"><![CDATA[Most people think electricity is clean. Our hands don't get dirty when we plug something into a wall, and our laptops don't need exhaust pipes. However, a major portion of our electricity is generated from burning fossil fuels, therefore we can directly connect electricity to carbon emissions. In these terms, electricity can be considered a proxy for carbon. If our goal is to be carbon efficient, then it means our goal is also to be energy efficient. This means using the least amount of energy possible per unit of work.]]></p>
+                        </component>
+                    </column>
+                </row>
+            </components>
+        </modal>
+        <modal>
+            <title dbid="657ae1eba789759594df07f0"><![CDATA[Low-carbon sources]]></title>
+            <components>
+                <row>
+                    <column sm="12">
+                        <component type="text">
+                            <p dbid="657ae1eba789759594df07f1"><![CDATA[Sustainable energy comes from renewable, zero-emission sources that do not pollute the atmosphere when used and save energy through energy-efficient practices. There are overlaps between clean, green, and renewable energy. Here's how we can differentiate between them:]]></p>
+                            <ul>
+                                <li dbid="657ae1eba789759594df07f2"><![CDATA[<b>Clean energy</b> - doesn’t release pollutants into the air e.g. nuclear]]></li>
+                                <li dbid="657ae1eba789759594df07f3"><![CDATA[<b>Green energy</b> - sources from nature that do not cause harm to the environment, e.g. geothermal or hydropower designed not to damage the environment]]></li>
+                                <li dbid="657ae1eba789759594df07f4"><![CDATA[<b>Renewable energy</b> - sources will not expire and replenish naturally e.g. solar (sun), wind]]></li>
+                            </ul>
+                        </component>
+                    </column>
+                    <!-- <column sm="12">
+                        <component type="image" src="module_03/low_carbon.png">
+                            <alt dbid="657c18c3c2520c8118f4d3b8"><![CDATA[]]></alt>
+                        </component>
+                    </column> -->
+                </row>
+            </components>
+        </modal>
+    </modals>
+</contents>
