@@ -4,6 +4,8 @@ This repository provides the required files to create a eLearning Sharable Conte
 
 Content is adapted from https://learn.greensoftware.foundation/
 
+A preview of the course contents can be viewed at https://hsbc.github.io/Green-Software-eLearning-Course/  
+
 **Why have we created this package?**
 
 The Green Software Foundation (GSF) training is online only and doesn't provide a mechanism for organisations to provide training to employees, or track completion. By providing in SCORM format it allows any organisation to implement this in their organisational eLearning systems, within the constructs of their learning frameworks.
